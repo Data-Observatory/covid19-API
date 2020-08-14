@@ -675,3 +675,8 @@ UCI_Etario,Grupo_de_edad="40-49" Total=105 1597276800000000000
 UCI_Etario,Grupo_de_edad="50-59" Total=293 1597276800000000000
 UCI_Etario,Grupo_de_edad="60-69" Total=435 1597276800000000000
 UCI_Etario,Grupo_de_edad="mayor_que_70" Total=355 1597276800000000000
+UCI_Etario,Grupo_de_edad="menor_que_39" Total=75 1597363200000000000
+UCI_Etario,Grupo_de_edad="40-49" Total=103 1597363200000000000
+UCI_Etario,Grupo_de_edad="50-59" Total=294 1597363200000000000
+UCI_Etario,Grupo_de_edad="60-69" Total=424 1597363200000000000
+UCI_Etario,Grupo_de_edad="mayor_que_70" Total=356 1597363200000000000
