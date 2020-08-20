@@ -2,7 +2,7 @@
 # CONTEXT-DATABASE: covid19
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Arica_y_Parinacota" Total=21.0 1587254400000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Tarapaca" Total=15.0 1587254400000000000
-Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagaste" Total=68.0 1587254400000000000
+Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagasta" Total=68.0 1587254400000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Atacama" Total=11.0 1587254400000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Coquimbo" Total=50.0 1587254400000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Valparaiso" Total=158.0 1587254400000000000
@@ -19,7 +19,7 @@ Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Magallanes" Total=32.0 158725440
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Total" Total=1627.0 1587254400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Arica_y_Parinacota" Total=5.0 1587254400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Tarapaca" Total=1.0 1587254400000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagaste" Total=5.0 1587254400000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagasta" Total=5.0 1587254400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Atacama" Total=1.0 1587254400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Coquimbo" Total=0.0 1587254400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Valparaiso" Total=22.0 1587254400000000000
@@ -36,7 +36,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Magallanes" Total=18.0 158
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Total" Total=373.0 1587254400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Arica_y_Parinacota" Total=8.0 1587254400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Tarapaca" Total=4.0 1587254400000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagaste" Total=40.0 1587254400000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagasta" Total=40.0 1587254400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Atacama" Total=4.0 1587254400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Coquimbo" Total=30.0 1587254400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Valparaiso" Total=79.0 1587254400000000000
@@ -53,7 +53,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Magallanes" Total=9.0 1
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Total" Total=684.0 1587254400000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Arica_y_Parinacota" Total=9.0 1587254400000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Tarapaca" Total=12.0 1587254400000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagaste" Total=48.0 1587254400000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagasta" Total=48.0 1587254400000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Atacama" Total=11.0 1587254400000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Coquimbo" Total=29.0 1587254400000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Valparaiso" Total=125.0 1587254400000000000
@@ -70,7 +70,7 @@ Camas_UCI,Serie="Camas_base_(2019)",Region="Magallanes" Total=14.0 1587254400000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Total" Total=1331.0 1587254400000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Arica_y_Parinacota" Total=21.0 1587859200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Tarapaca" Total=11.0 1587859200000000000
-Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagaste" Total=75.0 1587859200000000000
+Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagasta" Total=75.0 1587859200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Atacama" Total=11.0 1587859200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Coquimbo" Total=49.0 1587859200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Valparaiso" Total=156.0 1587859200000000000
@@ -87,7 +87,7 @@ Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Magallanes" Total=32.0 158785920
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Total" Total=1702.0 1587859200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Arica_y_Parinacota" Total=9.0 1587859200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Tarapaca" Total=2.0 1587859200000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagaste" Total=15.0 1587859200000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagasta" Total=15.0 1587859200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Atacama" Total=1.0 1587859200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Coquimbo" Total=0.0 1587859200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Valparaiso" Total=14.0 1587859200000000000
@@ -104,7 +104,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Magallanes" Total=17.0 158
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Total" Total=415.0 1587859200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Arica_y_Parinacota" Total=3.0 1587859200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Tarapaca" Total=4.0 1587859200000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagaste" Total=47.0 1587859200000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagasta" Total=47.0 1587859200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Atacama" Total=4.0 1587859200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Coquimbo" Total=27.0 1587859200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Valparaiso" Total=81.0 1587859200000000000
@@ -121,7 +121,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Magallanes" Total=6.0 1
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Total" Total=667.0 1587859200000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Arica_y_Parinacota" Total=9.0 1587859200000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Tarapaca" Total=12.0 1587859200000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagaste" Total=48.0 1587859200000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagasta" Total=48.0 1587859200000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Atacama" Total=11.0 1587859200000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Coquimbo" Total=29.0 1587859200000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Valparaiso" Total=125.0 1587859200000000000
@@ -138,7 +138,7 @@ Camas_UCI,Serie="Camas_base_(2019)",Region="Magallanes" Total=14.0 1587859200000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Total" Total=1331.0 1587859200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Arica_y_Parinacota" Total=21.0 1588464000000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Tarapaca" Total=12.0 1588464000000000000
-Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagaste" Total=75.0 1588464000000000000
+Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagasta" Total=75.0 1588464000000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Atacama" Total=12.0 1588464000000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Coquimbo" Total=49.0 1588464000000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Valparaiso" Total=151.0 1588464000000000000
@@ -155,7 +155,7 @@ Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Magallanes" Total=32.0 158846400
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Total" Total=1825.0 1588464000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Arica_y_Parinacota" Total=7.0 1588464000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Tarapaca" Total=4.0 1588464000000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagaste" Total=24.0 1588464000000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagasta" Total=24.0 1588464000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Atacama" Total=1.0 1588464000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Coquimbo" Total=0.0 1588464000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Valparaiso" Total=17.0 1588464000000000000
@@ -172,7 +172,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Magallanes" Total=18.0 158
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Total" Total=449.0 1588464000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Arica_y_Parinacota" Total=5.0 1588464000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Tarapaca" Total=4.0 1588464000000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagaste" Total=36.0 1588464000000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagasta" Total=36.0 1588464000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Atacama" Total=7.0 1588464000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Coquimbo" Total=27.0 1588464000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Valparaiso" Total=78.0 1588464000000000000
@@ -189,7 +189,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Magallanes" Total=6.0 1
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Total" Total=702.0 1588464000000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Arica_y_Parinacota" Total=9.0 1588464000000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Tarapaca" Total=12.0 1588464000000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagaste" Total=48.0 1588464000000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagasta" Total=48.0 1588464000000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Atacama" Total=11.0 1588464000000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Coquimbo" Total=29.0 1588464000000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Valparaiso" Total=125.0 1588464000000000000
@@ -206,7 +206,7 @@ Camas_UCI,Serie="Camas_base_(2019)",Region="Magallanes" Total=14.0 1588464000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Total" Total=1331.0 1588464000000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Arica_y_Parinacota" Total=21.0 1589068800000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Tarapaca" Total=14.0 1589068800000000000
-Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagaste" Total=77.0 1589068800000000000
+Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagasta" Total=77.0 1589068800000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Atacama" Total=23.0 1589068800000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Coquimbo" Total=51.0 1589068800000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Valparaiso" Total=151.0 1589068800000000000
@@ -223,7 +223,7 @@ Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Magallanes" Total=32.0 158906880
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Total" Total=1825.0 1589068800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Arica_y_Parinacota" Total=7.0 1589068800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Tarapaca" Total=6.0 1589068800000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagaste" Total=31.0 1589068800000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagasta" Total=31.0 1589068800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Atacama" Total=2.0 1589068800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Coquimbo" Total=0.0 1589068800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Valparaiso" Total=18.0 1589068800000000000
@@ -240,7 +240,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Magallanes" Total=15.0 158
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Total" Total=565.0 1589068800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Arica_y_Parinacota" Total=5.0 1589068800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Tarapaca" Total=4.0 1589068800000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagaste" Total=34.0 1589068800000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagasta" Total=34.0 1589068800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Atacama" Total=6.0 1589068800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Coquimbo" Total=26.0 1589068800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Valparaiso" Total=84.0 1589068800000000000
@@ -257,7 +257,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Magallanes" Total=7.0 1
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Total" Total=710.0 1589068800000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Arica_y_Parinacota" Total=9.0 1589068800000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Tarapaca" Total=12.0 1589068800000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagaste" Total=48.0 1589068800000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagasta" Total=48.0 1589068800000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Atacama" Total=11.0 1589068800000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Coquimbo" Total=29.0 1589068800000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Valparaiso" Total=125.0 1589068800000000000
@@ -274,7 +274,7 @@ Camas_UCI,Serie="Camas_base_(2019)",Region="Magallanes" Total=14.0 1589068800000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Total" Total=1331.0 1589068800000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Arica_y_Parinacota" Total=21.0 1589673600000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Tarapaca" Total=23.0 1589673600000000000
-Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagaste" Total=104.0 1589673600000000000
+Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagasta" Total=104.0 1589673600000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Atacama" Total=24.0 1589673600000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Coquimbo" Total=47.0 1589673600000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Valparaiso" Total=152.0 1589673600000000000
@@ -291,7 +291,7 @@ Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Magallanes" Total=32.0 158967360
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Total" Total=2130.0 1589673600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Arica_y_Parinacota" Total=8.0 1589673600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Tarapaca" Total=12.0 1589673600000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagaste" Total=49.0 1589673600000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagasta" Total=49.0 1589673600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Atacama" Total=3.0 1589673600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Coquimbo" Total=1.0 1589673600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Valparaiso" Total=27.0 1589673600000000000
@@ -308,7 +308,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Magallanes" Total=11.0 158
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Total" Total=769.0 1589673600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Arica_y_Parinacota" Total=6.0 1589673600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Tarapaca" Total=10.0 1589673600000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagaste" Total=40.0 1589673600000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagasta" Total=40.0 1589673600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Atacama" Total=7.0 1589673600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Coquimbo" Total=34.0 1589673600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Valparaiso" Total=78.0 1589673600000000000
@@ -325,7 +325,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Magallanes" Total=10.0 
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Total" Total=792.0 1589673600000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Arica_y_Parinacota" Total=9.0 1589673600000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Tarapaca" Total=12.0 1589673600000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagaste" Total=48.0 1589673600000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagasta" Total=48.0 1589673600000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Atacama" Total=11.0 1589673600000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Coquimbo" Total=29.0 1589673600000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Valparaiso" Total=125.0 1589673600000000000
@@ -342,7 +342,7 @@ Camas_UCI,Serie="Camas_base_(2019)",Region="Magallanes" Total=14.0 1589673600000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Total" Total=1331.0 1589673600000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Arica_y_Parinacota" Total=21.0 1590278400000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Tarapaca" Total=29.0 1590278400000000000
-Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagaste" Total=110.0 1590278400000000000
+Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagasta" Total=110.0 1590278400000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Atacama" Total=21.0 1590278400000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Coquimbo" Total=56.0 1590278400000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Valparaiso" Total=163.0 1590278400000000000
@@ -359,7 +359,7 @@ Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Magallanes" Total=32.0 159027840
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Total" Total=2318.0 1590278400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Arica_y_Parinacota" Total=8.0 1590278400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Tarapaca" Total=17.0 1590278400000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagaste" Total=46.0 1590278400000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagasta" Total=46.0 1590278400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Atacama" Total=3.0 1590278400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Coquimbo" Total=4.0 1590278400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Valparaiso" Total=50.0 1590278400000000000
@@ -376,7 +376,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Magallanes" Total=7.0 1590
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Total" Total=1090.0 1590278400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Arica_y_Parinacota" Total=4.0 1590278400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Tarapaca" Total=4.0 1590278400000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagaste" Total=53.0 1590278400000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagasta" Total=53.0 1590278400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Atacama" Total=6.0 1590278400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Coquimbo" Total=33.0 1590278400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Valparaiso" Total=76.0 1590278400000000000
@@ -393,7 +393,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Magallanes" Total=6.0 1
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Total" Total=880.0 1590278400000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Arica_y_Parinacota" Total=9.0 1590278400000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Tarapaca" Total=12.0 1590278400000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagaste" Total=48.0 1590278400000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagasta" Total=48.0 1590278400000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Atacama" Total=11.0 1590278400000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Coquimbo" Total=29.0 1590278400000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Valparaiso" Total=125.0 1590278400000000000
@@ -410,7 +410,7 @@ Camas_UCI,Serie="Camas_base_(2019)",Region="Magallanes" Total=14.0 1590278400000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Total" Total=1331.0 1590278400000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Arica_y_Parinacota" Total=21.0 1590883200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Tarapaca" Total=34.0 1590883200000000000
-Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagaste" Total=119.0 1590883200000000000
+Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagasta" Total=119.0 1590883200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Atacama" Total=21.0 1590883200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Coquimbo" Total=56.0 1590883200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Valparaiso" Total=181.0 1590883200000000000
@@ -427,7 +427,7 @@ Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Magallanes" Total=32.0 159088320
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Total" Total=2576.0 1590883200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Arica_y_Parinacota" Total=12.0 1590883200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Tarapaca" Total=25.0 1590883200000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagaste" Total=48.0 1590883200000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagasta" Total=48.0 1590883200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Atacama" Total=2.0 1590883200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Coquimbo" Total=11.0 1590883200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Valparaiso" Total=95.0 1590883200000000000
@@ -444,7 +444,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Magallanes" Total=4.0 1590
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Total" Total=1383.0 1590883200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Arica_y_Parinacota" Total=2.0 1590883200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Tarapaca" Total=5.0 1590883200000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagaste" Total=57.0 1590883200000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagasta" Total=57.0 1590883200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Atacama" Total=6.0 1590883200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Coquimbo" Total=35.0 1590883200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Valparaiso" Total=58.0 1590883200000000000
@@ -461,7 +461,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Magallanes" Total=17.0 
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Total" Total=880.0 1590883200000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Arica_y_Parinacota" Total=9.0 1590883200000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Tarapaca" Total=12.0 1590883200000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagaste" Total=48.0 1590883200000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagasta" Total=48.0 1590883200000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Atacama" Total=11.0 1590883200000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Coquimbo" Total=29.0 1590883200000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Valparaiso" Total=125.0 1590883200000000000
@@ -478,7 +478,7 @@ Camas_UCI,Serie="Camas_base_(2019)",Region="Magallanes" Total=14.0 1590883200000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Total" Total=1331.0 1590883200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Arica_y_Parinacota" Total=27.0 1591488000000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Tarapaca" Total=44.0 1591488000000000000
-Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagaste" Total=129.0 1591488000000000000
+Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagasta" Total=129.0 1591488000000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Atacama" Total=22.0 1591488000000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Coquimbo" Total=57.0 1591488000000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Valparaiso" Total=196.0 1591488000000000000
@@ -495,7 +495,7 @@ Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Magallanes" Total=32.0 159148800
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Total" Total=2823.0 1591488000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Arica_y_Parinacota" Total=11.0 1591488000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Tarapaca" Total=41.0 1591488000000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagaste" Total=51.0 1591488000000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagasta" Total=51.0 1591488000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Atacama" Total=2.0 1591488000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Coquimbo" Total=10.0 1591488000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Valparaiso" Total=91.0 1591488000000000000
@@ -512,7 +512,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Magallanes" Total=4.0 1591
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Total" Total=1558.0 1591488000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Arica_y_Parinacota" Total=5.0 1591488000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Tarapaca" Total=1.0 1591488000000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagaste" Total=50.0 1591488000000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagasta" Total=50.0 1591488000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Atacama" Total=5.0 1591488000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Coquimbo" Total=37.0 1591488000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Valparaiso" Total=72.0 1591488000000000000
@@ -529,7 +529,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Magallanes" Total=9.0 1
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Total" Total=937.0 1591488000000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Arica_y_Parinacota" Total=9.0 1591488000000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Tarapaca" Total=12.0 1591488000000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagaste" Total=48.0 1591488000000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagasta" Total=48.0 1591488000000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Atacama" Total=11.0 1591488000000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Coquimbo" Total=29.0 1591488000000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Valparaiso" Total=125.0 1591488000000000000
@@ -546,7 +546,7 @@ Camas_UCI,Serie="Camas_base_(2019)",Region="Magallanes" Total=14.0 1591488000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Total" Total=1331.0 1591488000000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Arica_y_Parinacota" Total=27.0 1592179200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Tarapaca" Total=50.0 1592179200000000000
-Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagaste" Total=139.0 1592179200000000000
+Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagasta" Total=139.0 1592179200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Atacama" Total=24.0 1592179200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Coquimbo" Total=57.0 1592179200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Valparaiso" Total=207.0 1592179200000000000
@@ -563,7 +563,7 @@ Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Magallanes" Total=32.0 159217920
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Total" Total=3017.0 1592179200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Arica_y_Parinacota" Total=14.0 1592179200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Tarapaca" Total=36.0 1592179200000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagaste" Total=63.0 1592179200000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagasta" Total=63.0 1592179200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Atacama" Total=6.0 1592179200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Coquimbo" Total=16.0 1592179200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Valparaiso" Total=106.0 1592179200000000000
@@ -580,7 +580,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Magallanes" Total=2.0 1592
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Total" Total=1723.0 1592179200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Arica_y_Parinacota" Total=7.0 1592179200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Tarapaca" Total=5.0 1592179200000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagaste" Total=51.0 1592179200000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagasta" Total=51.0 1592179200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Atacama" Total=8.0 1592179200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Coquimbo" Total=31.0 1592179200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Valparaiso" Total=66.0 1592179200000000000
@@ -597,7 +597,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Magallanes" Total=11.0 
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Total" Total=903.0 1592179200000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Arica_y_Parinacota" Total=9.0 1592179200000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Tarapaca" Total=12.0 1592179200000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagaste" Total=48.0 1592179200000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagasta" Total=48.0 1592179200000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Atacama" Total=11.0 1592179200000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Coquimbo" Total=29.0 1592179200000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Valparaiso" Total=125.0 1592179200000000000
@@ -614,7 +614,7 @@ Camas_UCI,Serie="Camas_base_(2019)",Region="Magallanes" Total=14.0 1592179200000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Total" Total=1331.0 1592179200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Arica_y_Parinacota" Total=27.0 1592697600000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Tarapaca" Total=49.0 1592697600000000000
-Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagaste" Total=146.0 1592697600000000000
+Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagasta" Total=146.0 1592697600000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Atacama" Total=24.0 1592697600000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Coquimbo" Total=59.0 1592697600000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Valparaiso" Total=211.0 1592697600000000000
@@ -631,7 +631,7 @@ Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Magallanes" Total=32.0 159269760
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Total" Total=3018.0 1592697600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Arica_y_Parinacota" Total=14.0 1592697600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Tarapaca" Total=36.0 1592697600000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagaste" Total=78.0 1592697600000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagasta" Total=78.0 1592697600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Atacama" Total=7.0 1592697600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Coquimbo" Total=19.0 1592697600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Valparaiso" Total=129.0 1592697600000000000
@@ -648,7 +648,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Magallanes" Total=3.0 1592
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Total" Total=1996.0 1592697600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Arica_y_Parinacota" Total=7.0 1592697600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Tarapaca" Total=1.0 1592697600000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagaste" Total=56.0 1592697600000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagasta" Total=56.0 1592697600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Atacama" Total=7.0 1592697600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Coquimbo" Total=34.0 1592697600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Valparaiso" Total=44.0 1592697600000000000
@@ -665,7 +665,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Magallanes" Total=15.0 
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Total" Total=720.0 1592697600000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Arica_y_Parinacota" Total=9.0 1592697600000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Tarapaca" Total=12.0 1592697600000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagaste" Total=48.0 1592697600000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagasta" Total=48.0 1592697600000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Atacama" Total=11.0 1592697600000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Coquimbo" Total=29.0 1592697600000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Valparaiso" Total=125.0 1592697600000000000
@@ -682,7 +682,7 @@ Camas_UCI,Serie="Camas_base_(2019)",Region="Magallanes" Total=14.0 1592697600000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Total" Total=1331.0 1592697600000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Arica_y_Parinacota" Total=27.0 1593302400000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Tarapaca" Total=42.0 1593302400000000000
-Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagaste" Total=144.0 1593302400000000000
+Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagasta" Total=144.0 1593302400000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Atacama" Total=29.0 1593302400000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Coquimbo" Total=62.0 1593302400000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Valparaiso" Total=216.0 1593302400000000000
@@ -699,7 +699,7 @@ Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Magallanes" Total=32.0 159330240
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Total" Total=3080.0 1593302400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Arica_y_Parinacota" Total=15.0 1593302400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Tarapaca" Total=32.0 1593302400000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagaste" Total=84.0 1593302400000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagasta" Total=84.0 1593302400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Atacama" Total=11.0 1593302400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Coquimbo" Total=30.0 1593302400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Valparaiso" Total=137.0 1593302400000000000
@@ -716,7 +716,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Magallanes" Total=3.0 1593
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Total" Total=2129.0 1593302400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Arica_y_Parinacota" Total=5.0 1593302400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Tarapaca" Total=7.0 1593302400000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagaste" Total=51.0 1593302400000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagasta" Total=51.0 1593302400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Atacama" Total=3.0 1593302400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Coquimbo" Total=19.0 1593302400000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Valparaiso" Total=41.0 1593302400000000000
@@ -733,7 +733,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Magallanes" Total=15.0 
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Total" Total=649.0 1593302400000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Arica_y_Parinacota" Total=9.0 1593302400000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Tarapaca" Total=12.0 1593302400000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagaste" Total=48.0 1593302400000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagasta" Total=48.0 1593302400000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Atacama" Total=11.0 1593302400000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Coquimbo" Total=29.0 1593302400000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Valparaiso" Total=125.0 1593302400000000000
@@ -750,7 +750,7 @@ Camas_UCI,Serie="Camas_base_(2019)",Region="Magallanes" Total=14.0 1593302400000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Total" Total=1331.0 1593302400000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Arica_y_Parinacota" Total=27.0 1593907200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Tarapaca" Total=42.0 1593907200000000000
-Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagaste" Total=148.0 1593907200000000000
+Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagasta" Total=148.0 1593907200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Atacama" Total=21.0 1593907200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Coquimbo" Total=76.0 1593907200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Valparaiso" Total=236.0 1593907200000000000
@@ -767,7 +767,7 @@ Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Magallanes" Total=32.0 159390720
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Total" Total=3175.0 1593907200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Arica_y_Parinacota" Total=11.0 1593907200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Tarapaca" Total=24.0 1593907200000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagaste" Total=91.0 1593907200000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagasta" Total=91.0 1593907200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Atacama" Total=10.0 1593907200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Coquimbo" Total=42.0 1593907200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Valparaiso" Total=140.0 1593907200000000000
@@ -784,7 +784,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Magallanes" Total=2.0 1593
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Total" Total=2078.0 1593907200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Arica_y_Parinacota" Total=13.0 1593907200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Tarapaca" Total=9.0 1593907200000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagaste" Total=51.0 1593907200000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagasta" Total=51.0 1593907200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Atacama" Total=2.0 1593907200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Coquimbo" Total=22.0 1593907200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Valparaiso" Total=62.0 1593907200000000000
@@ -801,7 +801,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Magallanes" Total=12.0 
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Total" Total=747.0 1593907200000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Arica_y_Parinacota" Total=9.0 1593907200000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Tarapaca" Total=12.0 1593907200000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagaste" Total=48.0 1593907200000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagasta" Total=48.0 1593907200000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Atacama" Total=11.0 1593907200000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Coquimbo" Total=29.0 1593907200000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Valparaiso" Total=125.0 1593907200000000000
@@ -818,7 +818,7 @@ Camas_UCI,Serie="Camas_base_(2019)",Region="Magallanes" Total=14.0 1593907200000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Total" Total=1331.0 1593907200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Arica_y_Parinacota" Total=30.0 1594512000000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Tarapaca" Total=43.0 1594512000000000000
-Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagaste" Total=152.0 1594512000000000000
+Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagasta" Total=152.0 1594512000000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Atacama" Total=24.0 1594512000000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Coquimbo" Total=78.0 1594512000000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Valparaiso" Total=245.0 1594512000000000000
@@ -835,7 +835,7 @@ Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Magallanes" Total=32.0 159451200
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Total" Total=3184.0 1594512000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Arica_y_Parinacota" Total=17.0 1594512000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Tarapaca" Total=27.0 1594512000000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagaste" Total=74.0 1594512000000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagasta" Total=74.0 1594512000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Atacama" Total=9.0 1594512000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Coquimbo" Total=31.0 1594512000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Valparaiso" Total=139.0 1594512000000000000
@@ -852,7 +852,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Magallanes" Total=2.0 1594
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Total" Total=1995.0 1594512000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Arica_y_Parinacota" Total=10.0 1594512000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Tarapaca" Total=4.0 1594512000000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagaste" Total=61.0 1594512000000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagasta" Total=61.0 1594512000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Atacama" Total=3.0 1594512000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Coquimbo" Total=31.0 1594512000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Valparaiso" Total=66.0 1594512000000000000
@@ -869,7 +869,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Magallanes" Total=14.0 
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Total" Total=723.0 1594512000000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Arica_y_Parinacota" Total=9.0 1594512000000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Tarapaca" Total=12.0 1594512000000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagaste" Total=48.0 1594512000000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagasta" Total=48.0 1594512000000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Atacama" Total=11.0 1594512000000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Coquimbo" Total=29.0 1594512000000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Valparaiso" Total=125.0 1594512000000000000
@@ -886,7 +886,7 @@ Camas_UCI,Serie="Camas_base_(2019)",Region="Magallanes" Total=14.0 1594512000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Total" Total=1331.0 1594512000000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Arica_y_Parinacota" Total=36.0 1595116800000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Tarapaca" Total=41.0 1595116800000000000
-Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagaste" Total=151.0 1595116800000000000
+Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagasta" Total=151.0 1595116800000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Atacama" Total=24.0 1595116800000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Coquimbo" Total=73.0 1595116800000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Valparaiso" Total=250.0 1595116800000000000
@@ -903,7 +903,7 @@ Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Magallanes" Total=32.0 159511680
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Total" Total=3142.0 1595116800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Arica_y_Parinacota" Total=23.0 1595116800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Tarapaca" Total=31.0 1595116800000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagaste" Total=87.0 1595116800000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagasta" Total=87.0 1595116800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Atacama" Total=8.0 1595116800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Coquimbo" Total=35.0 1595116800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Valparaiso" Total=125.0 1595116800000000000
@@ -920,7 +920,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Magallanes" Total=3.0 1595
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Total" Total=1764.0 1595116800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Arica_y_Parinacota" Total=3.0 1595116800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Tarapaca" Total=3.0 1595116800000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagaste" Total=54.0 1595116800000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagasta" Total=54.0 1595116800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Atacama" Total=9.0 1595116800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Coquimbo" Total=31.0 1595116800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Valparaiso" Total=83.0 1595116800000000000
@@ -937,7 +937,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Magallanes" Total=10.0 
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Total" Total=934.0 1595116800000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Arica_y_Parinacota" Total=9.0 1595116800000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Tarapaca" Total=12.0 1595116800000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagaste" Total=48.0 1595116800000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagasta" Total=48.0 1595116800000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Atacama" Total=11.0 1595116800000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Coquimbo" Total=29.0 1595116800000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Valparaiso" Total=125.0 1595116800000000000
@@ -954,7 +954,7 @@ Camas_UCI,Serie="Camas_base_(2019)",Region="Magallanes" Total=14.0 1595116800000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Total" Total=1331.0 1595116800000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Arica_y_Parinacota" Total=40.0 1595721600000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Tarapaca" Total=42.0 1595721600000000000
-Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagaste" Total=151.0 1595721600000000000
+Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagasta" Total=151.0 1595721600000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Atacama" Total=24.0 1595721600000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Coquimbo" Total=81.0 1595721600000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Valparaiso" Total=249.0 1595721600000000000
@@ -971,7 +971,7 @@ Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Magallanes" Total=32.0 159572160
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Total" Total=3085.0 1595721600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Arica_y_Parinacota" Total=18.0 1595721600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Tarapaca" Total=26.0 1595721600000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagaste" Total=82.0 1595721600000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagasta" Total=82.0 1595721600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Atacama" Total=7.0 1595721600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Coquimbo" Total=34.0 1595721600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Valparaiso" Total=119.0 1595721600000000000
@@ -988,7 +988,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Magallanes" Total=2.0 1595
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Total" Total=1592.0 1595721600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Arica_y_Parinacota" Total=3.0 1595721600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Tarapaca" Total=1.0 1595721600000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagaste" Total=49.0 1595721600000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagasta" Total=49.0 1595721600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Atacama" Total=10.0 1595721600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Coquimbo" Total=32.0 1595721600000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Valparaiso" Total=80.0 1595721600000000000
@@ -1005,7 +1005,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Magallanes" Total=18.0 
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Total" Total=965.0 1595721600000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Arica_y_Parinacota" Total=9.0 1595721600000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Tarapaca" Total=12.0 1595721600000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagaste" Total=48.0 1595721600000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagasta" Total=48.0 1595721600000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Atacama" Total=11.0 1595721600000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Coquimbo" Total=29.0 1595721600000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Valparaiso" Total=125.0 1595721600000000000
@@ -1022,7 +1022,7 @@ Camas_UCI,Serie="Camas_base_(2019)",Region="Magallanes" Total=14.0 1595721600000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Total" Total=1331.0 1595721600000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Arica_y_Parinacota" Total=33.0 1596240000000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Tarapaca" Total=42.0 1596240000000000000
-Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagaste" Total=143.0 1596240000000000000
+Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagasta" Total=143.0 1596240000000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Atacama" Total=26.0 1596240000000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Coquimbo" Total=81.0 1596240000000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Valparaiso" Total=238.0 1596240000000000000
@@ -1039,7 +1039,7 @@ Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Magallanes" Total=32.0 159624000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Total" Total=3001.0 1596240000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Arica_y_Parinacota" Total=25.0 1596240000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Tarapaca" Total=26.0 1596240000000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagaste" Total=81.0 1596240000000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagasta" Total=81.0 1596240000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Atacama" Total=8.0 1596240000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Coquimbo" Total=40.0 1596240000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Valparaiso" Total=112.0 1596240000000000000
@@ -1056,7 +1056,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Magallanes" Total=3.0 1596
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Total" Total=1445.0 1596240000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Arica_y_Parinacota" Total=1.0 1596240000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Tarapaca" Total=2.0 1596240000000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagaste" Total=48.0 1596240000000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagasta" Total=48.0 1596240000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Atacama" Total=7.0 1596240000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Coquimbo" Total=31.0 1596240000000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Valparaiso" Total=76.0 1596240000000000000
@@ -1073,7 +1073,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Magallanes" Total=15.0 
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Total" Total=1005.0 1596240000000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Arica_y_Parinacota" Total=9.0 1596240000000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Tarapaca" Total=12.0 1596240000000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagaste" Total=48.0 1596240000000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagasta" Total=48.0 1596240000000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Atacama" Total=11.0 1596240000000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Coquimbo" Total=29.0 1596240000000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Valparaiso" Total=125.0 1596240000000000000
@@ -1090,7 +1090,7 @@ Camas_UCI,Serie="Camas_base_(2019)",Region="Magallanes" Total=14.0 1596240000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Total" Total=1331.0 1596240000000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Arica_y_Parinacota" Total=33.0 1596844800000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Tarapaca" Total=37.0 1596844800000000000
-Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagaste" Total=139.0 1596844800000000000
+Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagasta" Total=139.0 1596844800000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Atacama" Total=26.0 1596844800000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Coquimbo" Total=81.0 1596844800000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Valparaiso" Total=230.0 1596844800000000000
@@ -1107,7 +1107,7 @@ Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Magallanes" Total=32.0 159684480
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Total" Total=2877.0 1596844800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Arica_y_Parinacota" Total=25.0 1596844800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Tarapaca" Total=22.0 1596844800000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagaste" Total=71.0 1596844800000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagasta" Total=71.0 1596844800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Atacama" Total=6.0 1596844800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Coquimbo" Total=42.0 1596844800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Valparaiso" Total=96.0 1596844800000000000
@@ -1124,7 +1124,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Magallanes" Total=6.0 1596
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Total" Total=1305.0 1596844800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Arica_y_Parinacota" Total=5.0 1596844800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Tarapaca" Total=2.0 1596844800000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagaste" Total=51.0 1596844800000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagasta" Total=51.0 1596844800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Atacama" Total=9.0 1596844800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Coquimbo" Total=26.0 1596844800000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Valparaiso" Total=89.0 1596844800000000000
@@ -1141,7 +1141,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Magallanes" Total=12.0 
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Total" Total=1005.0 1596844800000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Arica_y_Parinacota" Total=9.0 1596844800000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Tarapaca" Total=12.0 1596844800000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagaste" Total=48.0 1596844800000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagasta" Total=48.0 1596844800000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Atacama" Total=11.0 1596844800000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Coquimbo" Total=29.0 1596844800000000000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Valparaiso" Total=125.0 1596844800000000000
@@ -1158,7 +1158,7 @@ Camas_UCI,Serie="Camas_base_(2019)",Region="Magallanes" Total=14.0 1596844800000
 Camas_UCI,Serie="Camas_base_(2019)",Region="Total" Total=1331.0 1596844800000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Arica_y_Parinacota" Total=33.0 1597363200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Tarapaca" Total=37.0 1597363200000000000
-Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagaste" Total=141.0 1597363200000000000
+Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Antofagasta" Total=141.0 1597363200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Atacama" Total=26.0 1597363200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Coquimbo" Total=85.0 1597363200000000000
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Valparaiso" Total=225.0 1597363200000000000
@@ -1175,7 +1175,7 @@ Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Magallanes" Total=32.0 159736320
 Camas_UCI,Serie="Camas_UCI_habilitadas",Region="Total" Total=2733.0 1597363200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Arica_y_Parinacota" Total=28.0 1597363200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Tarapaca" Total=23.0 1597363200000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagaste" Total=67.0 1597363200000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Antofagasta" Total=67.0 1597363200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Atacama" Total=10.0 1597363200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Coquimbo" Total=44.0 1597363200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Valparaiso" Total=95.0 1597363200000000000
@@ -1192,7 +1192,7 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Magallanes" Total=4.0 1597
 Camas_UCI,Serie="Camas_UCI_ocupadas_COVID-19",Region="Total" Total=1252.0 1597363200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Arica_y_Parinacota" Total=3.0 1597363200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Tarapaca" Total=4.0 1597363200000000000
-Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagaste" Total=46.0 1597363200000000000
+Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Antofagasta" Total=46.0 1597363200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Atacama" Total=11.0 1597363200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Coquimbo" Total=20.0 1597363200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Valparaiso" Total=91.0 1597363200000000000
@@ -1207,20 +1207,20 @@ Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Los_Lagos" Total=35.0 1
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Aysen" Total=5.0 1597363200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Magallanes" Total=20.0 1597363200000000000
 Camas_UCI,Serie="Camas_UCI_ocupadas_no_COVID-19",Region="Total" Total=959.0 1597363200000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Arica_y_Parinacota" Total=0.0 1597363200000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Tarapaca" Total=0.0 1597363200000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagaste" Total=0.0 1597363200000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Atacama" Total=0.0 1597363200000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Coquimbo" Total=0.0 1597363200000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Valparaiso" Total=0.0 1597363200000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Metropolitana" Total=0.0 1597363200000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="O'Higgins" Total=0.0 1597363200000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Maule" Total=0.0 1597363200000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Nuble" Total=0.0 1597363200000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Biobio" Total=0.0 1597363200000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Araucania" Total=0.0 1597363200000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Los_Rios" Total=0.0 1597363200000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Los_Lagos" Total=0.0 1597363200000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Aysen" Total=0.0 1597363200000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Magallanes" Total=0.0 1597363200000000000
-Camas_UCI,Serie="Camas_base_(2019)",Region="Total" Total=0.0 1597363200000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Arica_y_Parinacota" Total=9.0 1597363200000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Tarapaca" Total=12.0 1597363200000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Antofagasta" Total=48.0 1597363200000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Atacama" Total=11.0 1597363200000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Coquimbo" Total=29.0 1597363200000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Valparaiso" Total=125.0 1597363200000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Metropolitana" Total=745.0 1597363200000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="O'Higgins" Total=61.0 1597363200000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Maule" Total=45.0 1597363200000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Nuble" Total=16.0 1597363200000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Biobio" Total=97.0 1597363200000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Araucania" Total=49.0 1597363200000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Los_Rios" Total=13.0 1597363200000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Los_Lagos" Total=49.0 1597363200000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Aysen" Total=8.0 1597363200000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Magallanes" Total=14.0 1597363200000000000
+Camas_UCI,Serie="Camas_base_(2019)",Region="Total" Total=1331.0 1597363200000000000
