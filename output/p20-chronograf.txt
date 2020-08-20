@@ -372,3 +372,15 @@ Ventiladores_nacional,Ventiladores="ocupados" Total=2211 1597363200000000000
 Ventiladores_nacional,Ventiladores="total" Total=2717 1597449600000000000
 Ventiladores_nacional,Ventiladores="disponibles" Total=518 1597449600000000000
 Ventiladores_nacional,Ventiladores="ocupados" Total=2199 1597449600000000000
+Ventiladores_nacional,Ventiladores="total" Total=2717 1597536000000000000
+Ventiladores_nacional,Ventiladores="disponibles" Total=518 1597536000000000000
+Ventiladores_nacional,Ventiladores="ocupados" Total=2199 1597536000000000000
+Ventiladores_nacional,Ventiladores="total" Total=2701 1597622400000000000
+Ventiladores_nacional,Ventiladores="disponibles" Total=557 1597622400000000000
+Ventiladores_nacional,Ventiladores="ocupados" Total=2144 1597622400000000000
+Ventiladores_nacional,Ventiladores="total" Total=2689 1597708800000000000
+Ventiladores_nacional,Ventiladores="disponibles" Total=549 1597708800000000000
+Ventiladores_nacional,Ventiladores="ocupados" Total=2140 1597708800000000000
+Ventiladores_nacional,Ventiladores="total" Total=2708 1597795200000000000
+Ventiladores_nacional,Ventiladores="disponibles" Total=582 1597795200000000000
+Ventiladores_nacional,Ventiladores="ocupados" Total=2126 1597795200000000000
