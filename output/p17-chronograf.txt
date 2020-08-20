@@ -1184,3 +1184,11 @@ PCR_tipo_establecimiento,Establecimiento="Hospitales_publico",Examenes="informad
 PCR_tipo_establecimiento,Establecimiento="Privados",Examenes="informados_ultimo_dia" Total=8409.0 1597795200000000000
 PCR_tipo_establecimiento,Establecimiento="Total_realizados",Examenes="realizados" Total=2087354.0 1597795200000000000
 PCR_tipo_establecimiento,Establecimiento="Total_informados_ultimo_dia",Examenes="informados_ultimo_dia" Total=19275.0 1597795200000000000
+PCR_tipo_establecimiento,Establecimiento="Instituto_de_salud_publica",Examenes="realizados" Total=109885.0 1597881600000000000
+PCR_tipo_establecimiento,Establecimiento="Hospitales_publico",Examenes="realizados" Total=958540.0 1597881600000000000
+PCR_tipo_establecimiento,Establecimiento="Privados",Examenes="realizados" Total=1045207.0 1597881600000000000
+PCR_tipo_establecimiento,Establecimiento="Instituto_de_salud_publica",Examenes="informados_ultimo_dia" Total=462.0 1597881600000000000
+PCR_tipo_establecimiento,Establecimiento="Hospitales_publico",Examenes="informados_ultimo_dia" Total=13837.0 1597881600000000000
+PCR_tipo_establecimiento,Establecimiento="Privados",Examenes="informados_ultimo_dia" Total=11979.0 1597881600000000000
+PCR_tipo_establecimiento,Establecimiento="Total_realizados",Examenes="realizados" Total=2113632.0 1597881600000000000
+PCR_tipo_establecimiento,Establecimiento="Total_informados_ultimo_dia",Examenes="informados_ultimo_dia" Total=26278.0 1597881600000000000
