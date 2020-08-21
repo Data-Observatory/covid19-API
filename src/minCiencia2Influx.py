@@ -689,14 +689,16 @@ def prod38_to_line(df38, path):
 
 
 def prod39_to_line(df39, path):
+    # Categoria, Serie, Fecha, Casos
     lines = []
     for d in range(len(df39)):
         lines.append('Notificacion_inicio_sintomas,'
                      # TAGS are used to check if measurements are the same
-                     + 'Serie="' + unidecode.unidecode(str(df39['Casos'][d]).replace(' ', '_')) + '"'
+                     + 'Categoría="' + unidecode.unidecode(str(df39['Categoría'][d]).replace(' ', '_')) + '",'
+                     + 'Serie="' + unidecode.unidecode(str(df39['Serie'][d]).replace(' ', '_')) + '"'
                      + ' '
                      # Fields
-                     + 'Total=' + str(df39['Casos confirmados'][d])
+                     + 'Total=' + str(df39['Casos'][d])
                      + ' '
                      + str(pd.to_datetime(df39["Fecha"][d]).value)
                      )
