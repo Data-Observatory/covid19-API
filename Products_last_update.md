@@ -33,8 +33,8 @@
 |producto 28|2020-08-16T00:00:00Z|
 |producto 29|
 |producto 30|2020-08-21T00:00:00Z|
-|producto 31|2020-08-19T00:00:00Z|
-|producto 32|2020-08-19T00:00:00Z|
+|producto 31|2020-08-20T00:00:00Z|
+|producto 32|2020-08-20T00:00:00Z|
 |producto 33|2020-08-12T00:00:00Z|
 |producto 34|
 |producto 35|2020-08-17T00:00:00Z|
