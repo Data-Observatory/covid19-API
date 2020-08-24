@@ -694,7 +694,7 @@ def prod39_to_line(df39, path):
     for d in range(len(df39)):
         lines.append('Notificacion_inicio_sintomas,'
                      # TAGS are used to check if measurements are the same
-                     + 'Categoría="' + unidecode.unidecode(str(df39['Categoría'][d]).replace(' ', '_')) + '",'
+                     + 'Categoría="' + unidecode.unidecode(str(df39['Categoria'][d]).replace(' ', '_')) + '",'
                      + 'Serie="' + unidecode.unidecode(str(df39['Serie'][d]).replace(' ', '_')) + '"'
                      + ' '
                      # Fields
