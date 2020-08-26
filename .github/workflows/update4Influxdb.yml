@@ -9,7 +9,7 @@ on:
         branches: master
         path: '.github/workflows/updateinfluxdb-p43.yml'
     repository_dispatch:
-      types: [update_please_from_MMA]
+      types: []
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -38,7 +38,7 @@ jobs:
     - name: generate products from Minciencia for influx
       run: |
         cd src
-        python minCiencia2Influx.py 2020 2021 CO MP10 MP2.5 NO2 O3 SO2
+        python minCiencia2Influx.py
 
     - uses: stefanzweifel/git-auto-commit-action@v4.2.0
       with:

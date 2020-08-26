@@ -38,9 +38,7 @@ jobs:
     - name: generate products from Minciencia for influx
       run: |
         cd src
-        YEAR=$(date +'%Y')
-        python minCiencia2Influx.py ${YEAR} $(($YEAR+1)) MP2.5
-        python minCiencia2Influx.py ${YEAR} $(($YEAR+1)) MP10
+        python minCiencia2Influx.py 2020 2021 CO MP10 MP2.5 NO2 O3 SO2
 
     - uses: stefanzweifel/git-auto-commit-action@v4.2.0
       with:
