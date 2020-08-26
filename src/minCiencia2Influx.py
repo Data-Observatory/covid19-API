@@ -691,6 +691,9 @@ def prod38_to_line(df38, path):
 def prod39_to_line(df39, path):
     # Categoria, Serie, Fecha, Casos
     lines = []
+    df39 = df39[df39['Fecha'] != 'sin fecha']
+    df39.reset_index(drop=True, inplace=True)
+    #print(df39)
     for d in range(len(df39)):
         lines.append('Notificacion_inicio_sintomas,'
                      # TAGS are used to check if measurements are the same
