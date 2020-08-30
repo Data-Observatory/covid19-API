@@ -155,3 +155,4 @@ Pacientes_criticos Total=148 1598400000000000000
 Pacientes_criticos Total=135 1598486400000000000
 Pacientes_criticos Total=142 1598572800000000000
 Pacientes_criticos Total=131 1598659200000000000
+Pacientes_criticos Total=142 1598745600000000000
