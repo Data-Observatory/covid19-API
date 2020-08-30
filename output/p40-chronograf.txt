@@ -21,6 +21,7 @@ Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_de
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="Calama",Destino="Arica" Operaciones=1.0,Pasajeros=6.0 1592784000000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="Calama",Destino="Arica" Operaciones=2.0,Pasajeros=107.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="Calama",Destino="Arica" Operaciones=2.0,Pasajeros=104.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="Calama",Destino="Arica" Operaciones=1.0,Pasajeros=71.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="Concepcion",Destino="Arica" Operaciones=2.0,Pasajeros=256.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="Concepcion",Destino="Arica" Operaciones=3.0,Pasajeros=456.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="Concepcion",Destino="Arica" Operaciones=3.0,Pasajeros=486.0 1578873600000000000
@@ -42,6 +43,7 @@ Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="Iquique",Destino="Arica" Operaciones=2.0,Pasajeros=52.0 1584316800000000000
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="Iquique",Destino="Arica" Operaciones=1.0,Pasajeros=15.0 1586131200000000000
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="Iquique",Destino="Arica" Operaciones=1.0,Pasajeros=34.0 1587945600000000000
+Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="Iquique",Destino="Arica" Operaciones=2.0,Pasajeros=85.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="La_Serena",Destino="Arica" Operaciones=2.0,Pasajeros=319.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="La_Serena",Destino="Arica" Operaciones=2.0,Pasajeros=326.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="La_Serena",Destino="Arica" Operaciones=2.0,Pasajeros=336.0 1578873600000000000
@@ -63,6 +65,7 @@ Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_desti
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="La_Serena",Destino="Arica" Operaciones=1.0,Pasajeros=23.0 1595203200000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="La_Serena",Destino="Arica" Operaciones=1.0,Pasajeros=33.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="La_Serena",Destino="Arica" Operaciones=1.0,Pasajeros=71.0 1596412800000000000
+Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="La_Serena",Destino="Arica" Operaciones=1.0,Pasajeros=77.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="Santiago",Destino="Arica" Operaciones=45.0,Pasajeros=6898.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="Santiago",Destino="Arica" Operaciones=70.0,Pasajeros=10640.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="Santiago",Destino="Arica" Operaciones=70.0,Pasajeros=11038.0 1578873600000000000
@@ -99,6 +102,7 @@ Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="Santiago",Destino="Arica" Operaciones=1.0,Pasajeros=108.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="Santiago",Destino="Arica" Operaciones=4.0,Pasajeros=333.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="Santiago",Destino="Arica" Operaciones=3.0,Pasajeros=316.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="15",Region_destino="Arica_y_Parinacota",Origen="Santiago",Destino="Arica" Operaciones=5.0,Pasajeros=497.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="8",Region_destino="Biobio",Origen="Antofagasta",Destino="Concepcion" Operaciones=6.0,Pasajeros=886.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="8",Region_destino="Biobio",Origen="Antofagasta",Destino="Concepcion" Operaciones=6.0,Pasajeros=958.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="8",Region_destino="Biobio",Origen="Antofagasta",Destino="Concepcion" Operaciones=7.0,Pasajeros=1114.0 1578873600000000000
@@ -137,6 +141,7 @@ Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_de
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="8",Region_destino="Biobio",Origen="Antofagasta",Destino="Concepcion" Operaciones=5.0,Pasajeros=534.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="8",Region_destino="Biobio",Origen="Antofagasta",Destino="Concepcion" Operaciones=10.0,Pasajeros=1261.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="8",Region_destino="Biobio",Origen="Antofagasta",Destino="Concepcion" Operaciones=7.0,Pasajeros=1056.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="8",Region_destino="Biobio",Origen="Antofagasta",Destino="Concepcion" Operaciones=7.0,Pasajeros=889.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="8",Region_destino="Biobio",Origen="Arica",Destino="Concepcion" Operaciones=2.0,Pasajeros=264.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="8",Region_destino="Biobio",Origen="Arica",Destino="Concepcion" Operaciones=3.0,Pasajeros=427.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="8",Region_destino="Biobio",Origen="Arica",Destino="Concepcion" Operaciones=3.0,Pasajeros=469.0 1578873600000000000
@@ -205,6 +210,7 @@ Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_de
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="8",Region_destino="Biobio",Origen="Calama",Destino="Concepcion" Operaciones=3.0,Pasajeros=214.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="8",Region_destino="Biobio",Origen="Calama",Destino="Concepcion" Operaciones=2.0,Pasajeros=187.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="8",Region_destino="Biobio",Origen="Calama",Destino="Concepcion" Operaciones=2.0,Pasajeros=183.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="8",Region_destino="Biobio",Origen="Calama",Destino="Concepcion" Operaciones=1.0,Pasajeros=48.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="3",Region_origen="Atacama",Cod_region_destino="8",Region_destino="Biobio",Origen="Copiapo",Destino="Concepcion" Operaciones=1.0,Pasajeros=33.0 1584316800000000000
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="8",Region_destino="Biobio",Origen="Iquique",Destino="Concepcion" Operaciones=8.0,Pasajeros=847.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="8",Region_destino="Biobio",Origen="Iquique",Destino="Concepcion" Operaciones=11.0,Pasajeros=1362.0 1578268800000000000
@@ -236,6 +242,7 @@ Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_desti
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="8",Region_destino="Biobio",Origen="Iquique",Destino="Concepcion" Operaciones=2.0,Pasajeros=131.0 1595203200000000000
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="8",Region_destino="Biobio",Origen="Iquique",Destino="Concepcion" Operaciones=2.0,Pasajeros=130.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="8",Region_destino="Biobio",Origen="Iquique",Destino="Concepcion" Operaciones=2.0,Pasajeros=149.0 1596412800000000000
+Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="8",Region_destino="Biobio",Origen="Iquique",Destino="Concepcion" Operaciones=1.0,Pasajeros=103.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="8",Region_destino="Biobio",Origen="La_Serena",Destino="Concepcion" Operaciones=2.0,Pasajeros=268.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="8",Region_destino="Biobio",Origen="La_Serena",Destino="Concepcion" Operaciones=4.0,Pasajeros=500.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="8",Region_destino="Biobio",Origen="La_Serena",Destino="Concepcion" Operaciones=4.0,Pasajeros=478.0 1578873600000000000
@@ -257,6 +264,7 @@ Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_desti
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="8",Region_destino="Biobio",Origen="La_Serena",Destino="Concepcion" Operaciones=1.0,Pasajeros=17.0 1595203200000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="8",Region_destino="Biobio",Origen="La_Serena",Destino="Concepcion" Operaciones=1.0,Pasajeros=44.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="8",Region_destino="Biobio",Origen="La_Serena",Destino="Concepcion" Operaciones=1.0,Pasajeros=77.0 1596412800000000000
+Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="8",Region_destino="Biobio",Origen="La_Serena",Destino="Concepcion" Operaciones=1.0,Pasajeros=90.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="8",Region_destino="Biobio",Origen="Puerto_Montt",Destino="Concepcion" Operaciones=1.0,Pasajeros=148.0 1584316800000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="8",Region_destino="Biobio",Origen="Punta_Arenas",Destino="Concepcion" Operaciones=3.0,Pasajeros=492.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="8",Region_destino="Biobio",Origen="Punta_Arenas",Destino="Concepcion" Operaciones=5.0,Pasajeros=782.0 1578268800000000000
@@ -315,6 +323,7 @@ Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="8",Region_destino="Biobio",Origen="Santiago",Destino="Concepcion" Operaciones=1.0,Pasajeros=19.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="8",Region_destino="Biobio",Origen="Santiago",Destino="Concepcion" Operaciones=7.0,Pasajeros=613.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="8",Region_destino="Biobio",Origen="Santiago",Destino="Concepcion" Operaciones=9.0,Pasajeros=877.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="8",Region_destino="Biobio",Origen="Santiago",Destino="Concepcion" Operaciones=8.0,Pasajeros=723.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="8",Region_destino="Biobio",Origen="Temuco",Destino="Concepcion" Operaciones=1.0,Pasajeros=57.0 1594598400000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="8",Region_destino="Biobio",Origen="Puerto_Natales",Destino="Concepcion" Operaciones=1.0,Pasajeros=162.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Antofagasta",Destino="La_Serena" Operaciones=12.0,Pasajeros=1651.0 1577836800000000000
@@ -354,6 +363,7 @@ Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_de
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Antofagasta",Destino="La_Serena" Operaciones=9.0,Pasajeros=605.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Antofagasta",Destino="La_Serena" Operaciones=6.0,Pasajeros=603.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Antofagasta",Destino="La_Serena" Operaciones=6.0,Pasajeros=511.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Antofagasta",Destino="La_Serena" Operaciones=6.0,Pasajeros=475.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Arica",Destino="La_Serena" Operaciones=2.0,Pasajeros=317.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Arica",Destino="La_Serena" Operaciones=2.0,Pasajeros=353.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Arica",Destino="La_Serena" Operaciones=2.0,Pasajeros=332.0 1578873600000000000
@@ -375,6 +385,7 @@ Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_r
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Arica",Destino="La_Serena" Operaciones=1.0,Pasajeros=21.0 1595203200000000000
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Arica",Destino="La_Serena" Operaciones=1.0,Pasajeros=20.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Arica",Destino="La_Serena" Operaciones=1.0,Pasajeros=76.0 1596412800000000000
+Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Arica",Destino="La_Serena" Operaciones=1.0,Pasajeros=89.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Calama",Destino="La_Serena" Operaciones=4.0,Pasajeros=639.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Calama",Destino="La_Serena" Operaciones=9.0,Pasajeros=1468.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Calama",Destino="La_Serena" Operaciones=8.0,Pasajeros=1300.0 1578873600000000000
@@ -414,6 +425,7 @@ Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_de
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Calama",Destino="La_Serena" Operaciones=1.0,Pasajeros=56.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Calama",Destino="La_Serena" Operaciones=7.0,Pasajeros=674.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Calama",Destino="La_Serena" Operaciones=8.0,Pasajeros=861.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Calama",Destino="La_Serena" Operaciones=5.0,Pasajeros=465.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Concepcion",Destino="La_Serena" Operaciones=2.0,Pasajeros=261.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Concepcion",Destino="La_Serena" Operaciones=4.0,Pasajeros=492.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Concepcion",Destino="La_Serena" Operaciones=4.0,Pasajeros=479.0 1578873600000000000
@@ -434,6 +446,7 @@ Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Concepcion",Destino="La_Serena" Operaciones=1.0,Pasajeros=42.0 1595203200000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Concepcion",Destino="La_Serena" Operaciones=1.0,Pasajeros=35.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Concepcion",Destino="La_Serena" Operaciones=1.0,Pasajeros=83.0 1596412800000000000
+Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Concepcion",Destino="La_Serena" Operaciones=1.0,Pasajeros=71.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="3",Region_origen="Atacama",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Copiapo",Destino="La_Serena" Operaciones=4.0,Pasajeros=60.0 1586131200000000000
 Transporte_aereo,Cod_region_origen="3",Region_origen="Atacama",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Copiapo",Destino="La_Serena" Operaciones=7.0,Pasajeros=200.0 1586736000000000000
 Transporte_aereo,Cod_region_origen="3",Region_origen="Atacama",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Copiapo",Destino="La_Serena" Operaciones=7.0,Pasajeros=264.0 1587340800000000000
@@ -474,6 +487,7 @@ Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_desti
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Iquique",Destino="La_Serena" Operaciones=3.0,Pasajeros=91.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Iquique",Destino="La_Serena" Operaciones=3.0,Pasajeros=176.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Iquique",Destino="La_Serena" Operaciones=4.0,Pasajeros=191.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Iquique",Destino="La_Serena" Operaciones=2.0,Pasajeros=83.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Santiago",Destino="La_Serena" Operaciones=48.0,Pasajeros=7060.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Santiago",Destino="La_Serena" Operaciones=68.0,Pasajeros=10857.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Santiago",Destino="La_Serena" Operaciones=66.0,Pasajeros=10908.0 1578873600000000000
@@ -512,6 +526,7 @@ Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Santiago",Destino="La_Serena" Operaciones=11.0,Pasajeros=425.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Santiago",Destino="La_Serena" Operaciones=9.0,Pasajeros=464.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Santiago",Destino="La_Serena" Operaciones=10.0,Pasajeros=497.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="4",Region_destino="Coquimbo",Origen="Santiago",Destino="La_Serena" Operaciones=10.0,Pasajeros=446.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Antofagasta",Destino="Santiago" Operaciones=81.0,Pasajeros=11207.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Antofagasta",Destino="Santiago" Operaciones=126.0,Pasajeros=19265.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Antofagasta",Destino="Santiago" Operaciones=125.0,Pasajeros=20618.0 1578873600000000000
@@ -551,6 +566,7 @@ Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_de
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Antofagasta",Destino="Santiago" Operaciones=6.0,Pasajeros=606.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Antofagasta",Destino="Santiago" Operaciones=42.0,Pasajeros=4186.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Antofagasta",Destino="Santiago" Operaciones=49.0,Pasajeros=4837.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Antofagasta",Destino="Santiago" Operaciones=43.0,Pasajeros=4325.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Arica",Destino="Santiago" Operaciones=41.0,Pasajeros=6288.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Arica",Destino="Santiago" Operaciones=71.0,Pasajeros=10535.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Arica",Destino="Santiago" Operaciones=71.0,Pasajeros=10879.0 1578873600000000000
@@ -589,7 +605,8 @@ Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_r
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Arica",Destino="Santiago" Operaciones=4.0,Pasajeros=346.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Arica",Destino="Santiago" Operaciones=1.0,Pasajeros=80.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Arica",Destino="Santiago" Operaciones=5.0,Pasajeros=316.0 1596412800000000000
-Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Arica",Destino="Santiago" Operaciones=3.0,Pasajeros=222.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Arica",Destino="Santiago" Operaciones=4.0,Pasajeros=341.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Arica",Destino="Santiago" Operaciones=3.0,Pasajeros=281.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="11",Region_origen="Aysen",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Balmaceda",Destino="Santiago" Operaciones=32.0,Pasajeros=3793.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="11",Region_origen="Aysen",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Balmaceda",Destino="Santiago" Operaciones=47.0,Pasajeros=5429.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="11",Region_origen="Aysen",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Balmaceda",Destino="Santiago" Operaciones=50.0,Pasajeros=5750.0 1578873600000000000
@@ -628,6 +645,7 @@ Transporte_aereo,Cod_region_origen="11",Region_origen="Aysen",Cod_region_destino
 Transporte_aereo,Cod_region_origen="11",Region_origen="Aysen",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Balmaceda",Destino="Santiago" Operaciones=1.0,Pasajeros=47.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="11",Region_origen="Aysen",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Balmaceda",Destino="Santiago" Operaciones=3.0,Pasajeros=135.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="11",Region_origen="Aysen",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Balmaceda",Destino="Santiago" Operaciones=4.0,Pasajeros=134.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="11",Region_origen="Aysen",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Balmaceda",Destino="Santiago" Operaciones=5.0,Pasajeros=194.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Calama",Destino="Santiago" Operaciones=90.0,Pasajeros=11436.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Calama",Destino="Santiago" Operaciones=129.0,Pasajeros=19968.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Calama",Destino="Santiago" Operaciones=131.0,Pasajeros=20470.0 1578873600000000000
@@ -666,6 +684,7 @@ Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_de
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Calama",Destino="Santiago" Operaciones=24.0,Pasajeros=2357.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Calama",Destino="Santiago" Operaciones=27.0,Pasajeros=2704.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Calama",Destino="Santiago" Operaciones=28.0,Pasajeros=2916.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Calama",Destino="Santiago" Operaciones=20.0,Pasajeros=1695.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Concepcion",Destino="Santiago" Operaciones=49.0,Pasajeros=8321.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Concepcion",Destino="Santiago" Operaciones=80.0,Pasajeros=13413.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Concepcion",Destino="Santiago" Operaciones=76.0,Pasajeros=12945.0 1578873600000000000
@@ -705,6 +724,7 @@ Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Concepcion",Destino="Santiago" Operaciones=1.0,Pasajeros=36.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Concepcion",Destino="Santiago" Operaciones=8.0,Pasajeros=730.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Concepcion",Destino="Santiago" Operaciones=9.0,Pasajeros=914.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Concepcion",Destino="Santiago" Operaciones=9.0,Pasajeros=852.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="3",Region_origen="Atacama",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Copiapo",Destino="Santiago" Operaciones=30.0,Pasajeros=3906.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="3",Region_origen="Atacama",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Copiapo",Destino="Santiago" Operaciones=44.0,Pasajeros=6820.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="3",Region_origen="Atacama",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Copiapo",Destino="Santiago" Operaciones=44.0,Pasajeros=6929.0 1578873600000000000
@@ -723,6 +743,7 @@ Transporte_aereo,Cod_region_origen="3",Region_origen="Atacama",Cod_region_destin
 Transporte_aereo,Cod_region_origen="3",Region_origen="Atacama",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Copiapo",Destino="Santiago" Operaciones=1.0,Pasajeros=62.0 1585526400000000000
 Transporte_aereo,Cod_region_origen="3",Region_origen="Atacama",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Copiapo",Destino="Santiago" Operaciones=6.0,Pasajeros=187.0 1585526400000000000
 Transporte_aereo,Cod_region_origen="3",Region_origen="Atacama",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Copiapo",Destino="Santiago" Operaciones=3.0,Pasajeros=108.0 1586131200000000000
+Transporte_aereo,Cod_region_origen="3",Region_origen="Atacama",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Copiapo",Destino="Santiago" Operaciones=2.0,Pasajeros=148.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Iquique",Destino="Santiago" Operaciones=74.0,Pasajeros=10024.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Iquique",Destino="Santiago" Operaciones=127.0,Pasajeros=18369.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Iquique",Destino="Santiago" Operaciones=127.0,Pasajeros=19574.0 1578873600000000000
@@ -762,6 +783,7 @@ Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_desti
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Iquique",Destino="Santiago" Operaciones=1.0,Pasajeros=126.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Iquique",Destino="Santiago" Operaciones=32.0,Pasajeros=2612.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Iquique",Destino="Santiago" Operaciones=37.0,Pasajeros=3500.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Iquique",Destino="Santiago" Operaciones=30.0,Pasajeros=3039.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="5",Region_origen="Valparaiso",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Isla_de_Pascua",Destino="Santiago" Operaciones=10.0,Pasajeros=2696.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="5",Region_origen="Valparaiso",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Isla_de_Pascua",Destino="Santiago" Operaciones=12.0,Pasajeros=3139.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="5",Region_origen="Valparaiso",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Isla_de_Pascua",Destino="Santiago" Operaciones=12.0,Pasajeros=3023.0 1578873600000000000
@@ -820,6 +842,7 @@ Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_desti
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="13",Region_destino="Metropolitana",Origen="La_Serena",Destino="Santiago" Operaciones=7.0,Pasajeros=247.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="13",Region_destino="Metropolitana",Origen="La_Serena",Destino="Santiago" Operaciones=7.0,Pasajeros=455.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="13",Region_destino="Metropolitana",Origen="La_Serena",Destino="Santiago" Operaciones=7.0,Pasajeros=532.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="13",Region_destino="Metropolitana",Origen="La_Serena",Destino="Santiago" Operaciones=6.0,Pasajeros=444.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Castro",Destino="Santiago" Operaciones=4.0,Pasajeros=666.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Castro",Destino="Santiago" Operaciones=5.0,Pasajeros=829.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Castro",Destino="Santiago" Operaciones=5.0,Pasajeros=794.0 1578873600000000000
@@ -887,6 +910,7 @@ Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_des
 Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Puerto_Montt",Destino="Santiago" Operaciones=1.0,Pasajeros=99.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Puerto_Montt",Destino="Santiago" Operaciones=14.0,Pasajeros=864.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Puerto_Montt",Destino="Santiago" Operaciones=13.0,Pasajeros=923.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Puerto_Montt",Destino="Santiago" Operaciones=15.0,Pasajeros=1216.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Punta_Arenas",Destino="Santiago" Operaciones=60.0,Pasajeros=7651.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Punta_Arenas",Destino="Santiago" Operaciones=96.0,Pasajeros=13380.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Punta_Arenas",Destino="Santiago" Operaciones=90.0,Pasajeros=13158.0 1578873600000000000
@@ -925,7 +949,8 @@ Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_de
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Punta_Arenas",Destino="Santiago" Operaciones=5.0,Pasajeros=359.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Punta_Arenas",Destino="Santiago" Operaciones=2.0,Pasajeros=392.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Punta_Arenas",Destino="Santiago" Operaciones=8.0,Pasajeros=554.0 1596412800000000000
-Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Punta_Arenas",Destino="Santiago" Operaciones=4.0,Pasajeros=327.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Punta_Arenas",Destino="Santiago" Operaciones=7.0,Pasajeros=535.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Punta_Arenas",Destino="Santiago" Operaciones=6.0,Pasajeros=475.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Temuco",Destino="Santiago" Operaciones=53.0,Pasajeros=8362.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Temuco",Destino="Santiago" Operaciones=79.0,Pasajeros=11721.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Temuco",Destino="Santiago" Operaciones=83.0,Pasajeros=12682.0 1578873600000000000
@@ -963,7 +988,8 @@ Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_dest
 Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Temuco",Destino="Santiago" Operaciones=2.0,Pasajeros=137.0 1595203200000000000
 Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Temuco",Destino="Santiago" Operaciones=2.0,Pasajeros=168.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Temuco",Destino="Santiago" Operaciones=4.0,Pasajeros=361.0 1596412800000000000
-Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Temuco",Destino="Santiago" Operaciones=3.0,Pasajeros=310.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Temuco",Destino="Santiago" Operaciones=4.0,Pasajeros=362.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Temuco",Destino="Santiago" Operaciones=5.0,Pasajeros=525.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="14",Region_origen="Los_Rios",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Valdivia",Destino="Santiago" Operaciones=28.0,Pasajeros=3545.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="14",Region_origen="Los_Rios",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Valdivia",Destino="Santiago" Operaciones=40.0,Pasajeros=4907.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="14",Region_origen="Los_Rios",Cod_region_destino="13",Region_destino="Metropolitana",Origen="Valdivia",Destino="Santiago" Operaciones=40.0,Pasajeros=5164.0 1578873600000000000
@@ -1042,6 +1068,7 @@ Transporte_aereo,Cod_region_origen="11",Region_origen="Aysen",Cod_region_destino
 Transporte_aereo,Cod_region_origen="11",Region_origen="Aysen",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Balmaceda",Destino="Puerto_Montt" Operaciones=1.0,Pasajeros=104.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="11",Region_origen="Aysen",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Balmaceda",Destino="Puerto_Montt" Operaciones=6.0,Pasajeros=297.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="11",Region_origen="Aysen",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Balmaceda",Destino="Puerto_Montt" Operaciones=7.0,Pasajeros=285.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="11",Region_origen="Aysen",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Balmaceda",Destino="Puerto_Montt" Operaciones=7.0,Pasajeros=333.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Punta_Arenas",Destino="Puerto_Montt" Operaciones=20.0,Pasajeros=2758.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Punta_Arenas",Destino="Puerto_Montt" Operaciones=29.0,Pasajeros=3947.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Punta_Arenas",Destino="Puerto_Montt" Operaciones=29.0,Pasajeros=4027.0 1578873600000000000
@@ -1078,7 +1105,8 @@ Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_de
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Punta_Arenas",Destino="Puerto_Montt" Operaciones=6.0,Pasajeros=416.0 1595203200000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Punta_Arenas",Destino="Puerto_Montt" Operaciones=5.0,Pasajeros=427.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Punta_Arenas",Destino="Puerto_Montt" Operaciones=6.0,Pasajeros=382.0 1596412800000000000
-Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Punta_Arenas",Destino="Puerto_Montt" Operaciones=8.0,Pasajeros=535.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Punta_Arenas",Destino="Puerto_Montt" Operaciones=9.0,Pasajeros=634.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Punta_Arenas",Destino="Puerto_Montt" Operaciones=6.0,Pasajeros=361.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Santiago",Destino="Puerto_Montt" Operaciones=86.0,Pasajeros=13480.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Santiago",Destino="Puerto_Montt" Operaciones=131.0,Pasajeros=21335.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Santiago",Destino="Puerto_Montt" Operaciones=131.0,Pasajeros=21938.0 1578873600000000000
@@ -1119,9 +1147,11 @@ Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Santiago",Destino="Puerto_Montt" Operaciones=1.0,Pasajeros=150.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Santiago",Destino="Puerto_Montt" Operaciones=13.0,Pasajeros=778.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Santiago",Destino="Puerto_Montt" Operaciones=13.0,Pasajeros=808.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Santiago",Destino="Puerto_Montt" Operaciones=10.0,Pasajeros=698.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Temuco",Destino="Puerto_Montt" Operaciones=2.0,Pasajeros=69.0 1587340800000000000
 Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Temuco",Destino="Puerto_Montt" Operaciones=2.0,Pasajeros=82.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Temuco",Destino="Puerto_Montt" Operaciones=2.0,Pasajeros=57.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Temuco",Destino="Puerto_Montt" Operaciones=1.0,Pasajeros=38.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Puerto_Natales",Destino="Puerto_Montt" Operaciones=1.0,Pasajeros=95.0 1584316800000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Puerto_Natales",Destino="Puerto_Montt" Operaciones=1.0,Pasajeros=87.0 1586131200000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="10",Region_destino="Los_Lagos",Origen="Puerto_Natales",Destino="Puerto_Montt" Operaciones=1.0,Pasajeros=86.0 1586736000000000000
@@ -1152,6 +1182,7 @@ Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino
 Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="9",Region_destino="Araucania",Origen="Puerto_Montt",Destino="Temuco" Operaciones=1.0,Pasajeros=28.0 1587340800000000000
 Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="9",Region_destino="Araucania",Origen="Puerto_Montt",Destino="Temuco" Operaciones=2.0,Pasajeros=87.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="9",Region_destino="Araucania",Origen="Puerto_Montt",Destino="Temuco" Operaciones=2.0,Pasajeros=69.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="9",Region_destino="Araucania",Origen="Puerto_Montt",Destino="Temuco" Operaciones=1.0,Pasajeros=26.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="9",Region_destino="Araucania",Origen="Punta_Arenas",Destino="Temuco" Operaciones=2.0,Pasajeros=295.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="9",Region_destino="Araucania",Origen="Punta_Arenas",Destino="Temuco" Operaciones=3.0,Pasajeros=412.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="9",Region_destino="Araucania",Origen="Punta_Arenas",Destino="Temuco" Operaciones=3.0,Pasajeros=420.0 1578873600000000000
@@ -1205,6 +1236,7 @@ Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="9",Region_destino="Araucania",Origen="Santiago",Destino="Temuco" Operaciones=2.0,Pasajeros=137.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="9",Region_destino="Araucania",Origen="Santiago",Destino="Temuco" Operaciones=4.0,Pasajeros=330.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="9",Region_destino="Araucania",Origen="Santiago",Destino="Temuco" Operaciones=4.0,Pasajeros=308.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="9",Region_destino="Araucania",Origen="Santiago",Destino="Temuco" Operaciones=5.0,Pasajeros=543.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="14",Region_origen="Los_Rios",Cod_region_destino="9",Region_destino="Araucania",Origen="Valdivia",Destino="Temuco" Operaciones=1.0,Pasajeros=62.0 1584316800000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="9",Region_destino="Araucania",Origen="Puerto_Natales",Destino="Temuco" Operaciones=1.0,Pasajeros=60.0 1584316800000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Antofagasta",Destino="Calama" Operaciones=2.0,Pasajeros=40.0 1584316800000000000
@@ -1222,6 +1254,7 @@ Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_de
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Antofagasta",Destino="Calama" Operaciones=3.0,Pasajeros=148.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Antofagasta",Destino="Calama" Operaciones=10.0,Pasajeros=609.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Antofagasta",Destino="Calama" Operaciones=10.0,Pasajeros=605.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Antofagasta",Destino="Calama" Operaciones=7.0,Pasajeros=427.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Arica",Destino="Calama" Operaciones=1.0,Pasajeros=57.0 1590364800000000000
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Arica",Destino="Calama" Operaciones=1.0,Pasajeros=58.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Arica",Destino="Calama" Operaciones=1.0,Pasajeros=73.0 1597017600000000000
@@ -1263,6 +1296,7 @@ Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Concepcion",Destino="Calama" Operaciones=3.0,Pasajeros=219.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Concepcion",Destino="Calama" Operaciones=1.0,Pasajeros=72.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Concepcion",Destino="Calama" Operaciones=1.0,Pasajeros=82.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Concepcion",Destino="Calama" Operaciones=1.0,Pasajeros=86.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Iquique",Destino="Calama" Operaciones=1.0,Pasajeros=70.0 1584921600000000000
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Iquique",Destino="Calama" Operaciones=1.0,Pasajeros=57.0 1586736000000000000
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Iquique",Destino="Calama" Operaciones=1.0,Pasajeros=32.0 1589155200000000000
@@ -1309,6 +1343,7 @@ Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_desti
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="2",Region_destino="Antofagasta",Origen="La_Serena",Destino="Calama" Operaciones=1.0,Pasajeros=152.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="2",Region_destino="Antofagasta",Origen="La_Serena",Destino="Calama" Operaciones=7.0,Pasajeros=739.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="2",Region_destino="Antofagasta",Origen="La_Serena",Destino="Calama" Operaciones=9.0,Pasajeros=840.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="2",Region_destino="Antofagasta",Origen="La_Serena",Destino="Calama" Operaciones=7.0,Pasajeros=682.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Santiago",Destino="Calama" Operaciones=88.0,Pasajeros=13821.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Santiago",Destino="Calama" Operaciones=130.0,Pasajeros=19098.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Santiago",Destino="Calama" Operaciones=132.0,Pasajeros=18992.0 1578873600000000000
@@ -1349,12 +1384,15 @@ Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Santiago",Destino="Calama" Operaciones=3.0,Pasajeros=340.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Santiago",Destino="Calama" Operaciones=28.0,Pasajeros=2732.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Santiago",Destino="Calama" Operaciones=29.0,Pasajeros=2971.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Santiago",Destino="Calama" Operaciones=29.0,Pasajeros=2866.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Antofagasta",Destino="Iquique" Operaciones=2.0,Pasajeros=38.0 1584921600000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Antofagasta",Destino="Iquique" Operaciones=1.0,Pasajeros=81.0 1587340800000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Antofagasta",Destino="Iquique" Operaciones=1.0,Pasajeros=25.0 1592784000000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Antofagasta",Destino="Iquique" Operaciones=1.0,Pasajeros=92.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Antofagasta",Destino="Iquique" Operaciones=1.0,Pasajeros=62.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Antofagasta",Destino="Iquique" Operaciones=1.0,Pasajeros=80.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Arica",Destino="Iquique" Operaciones=1.0,Pasajeros=22.0 1587945600000000000
+Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Arica",Destino="Iquique" Operaciones=2.0,Pasajeros=167.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Calama",Destino="Iquique" Operaciones=1.0,Pasajeros=87.0 1585526400000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Calama",Destino="Iquique" Operaciones=1.0,Pasajeros=37.0 1586736000000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Calama",Destino="Iquique" Operaciones=1.0,Pasajeros=20.0 1589760000000000000
@@ -1392,6 +1430,7 @@ Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Concepcion",Destino="Iquique" Operaciones=2.0,Pasajeros=152.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Concepcion",Destino="Iquique" Operaciones=2.0,Pasajeros=143.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Concepcion",Destino="Iquique" Operaciones=1.0,Pasajeros=55.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Concepcion",Destino="Iquique" Operaciones=1.0,Pasajeros=105.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="3",Region_origen="Atacama",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Copiapo",Destino="Iquique" Operaciones=1.0,Pasajeros=27.0 1584921600000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="1",Region_destino="Tarapaca",Origen="La_Serena",Destino="Iquique" Operaciones=6.0,Pasajeros=879.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="1",Region_destino="Tarapaca",Origen="La_Serena",Destino="Iquique" Operaciones=9.0,Pasajeros=1379.0 1578268800000000000
@@ -1425,6 +1464,7 @@ Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_desti
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="1",Region_destino="Tarapaca",Origen="La_Serena",Destino="Iquique" Operaciones=2.0,Pasajeros=86.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="1",Region_destino="Tarapaca",Origen="La_Serena",Destino="Iquique" Operaciones=1.0,Pasajeros=115.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="1",Region_destino="Tarapaca",Origen="La_Serena",Destino="Iquique" Operaciones=2.0,Pasajeros=196.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="1",Region_destino="Tarapaca",Origen="La_Serena",Destino="Iquique" Operaciones=1.0,Pasajeros=113.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Santiago",Destino="Iquique" Operaciones=76.0,Pasajeros=11361.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Santiago",Destino="Iquique" Operaciones=126.0,Pasajeros=18627.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Santiago",Destino="Iquique" Operaciones=123.0,Pasajeros=19080.0 1578873600000000000
@@ -1465,6 +1505,7 @@ Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Santiago",Destino="Iquique" Operaciones=2.0,Pasajeros=271.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Santiago",Destino="Iquique" Operaciones=26.0,Pasajeros=2760.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Santiago",Destino="Iquique" Operaciones=31.0,Pasajeros=3400.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="1",Region_destino="Tarapaca",Origen="Santiago",Destino="Iquique" Operaciones=25.0,Pasajeros=3126.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Arica",Destino="Antofagasta" Operaciones=3.0,Pasajeros=320.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Arica",Destino="Antofagasta" Operaciones=2.0,Pasajeros=231.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="15",Region_origen="Arica_y_Parinacota",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Arica",Destino="Antofagasta" Operaciones=3.0,Pasajeros=325.0 1578873600000000000
@@ -1495,6 +1536,7 @@ Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_de
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Calama",Destino="Antofagasta" Operaciones=3.0,Pasajeros=195.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Calama",Destino="Antofagasta" Operaciones=10.0,Pasajeros=502.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Calama",Destino="Antofagasta" Operaciones=9.0,Pasajeros=542.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="2",Region_origen="Antofagasta",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Calama",Destino="Antofagasta" Operaciones=7.0,Pasajeros=419.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Concepcion",Destino="Antofagasta" Operaciones=4.0,Pasajeros=615.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Concepcion",Destino="Antofagasta" Operaciones=6.0,Pasajeros=927.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Concepcion",Destino="Antofagasta" Operaciones=7.0,Pasajeros=1095.0 1578873600000000000
@@ -1533,6 +1575,7 @@ Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Concepcion",Destino="Antofagasta" Operaciones=4.0,Pasajeros=454.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Concepcion",Destino="Antofagasta" Operaciones=9.0,Pasajeros=1089.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Concepcion",Destino="Antofagasta" Operaciones=7.0,Pasajeros=1028.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Concepcion",Destino="Antofagasta" Operaciones=5.0,Pasajeros=729.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Iquique",Destino="Antofagasta" Operaciones=2.0,Pasajeros=48.0 1584921600000000000
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Iquique",Destino="Antofagasta" Operaciones=1.0,Pasajeros=46.0 1587340800000000000
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Iquique",Destino="Antofagasta" Operaciones=1.0,Pasajeros=1.0 1589760000000000000
@@ -1540,6 +1583,7 @@ Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_desti
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Iquique",Destino="Antofagasta" Operaciones=1.0,Pasajeros=6.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Iquique",Destino="Antofagasta" Operaciones=1.0,Pasajeros=65.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Iquique",Destino="Antofagasta" Operaciones=1.0,Pasajeros=60.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="1",Region_origen="Tarapaca",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Iquique",Destino="Antofagasta" Operaciones=1.0,Pasajeros=63.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="2",Region_destino="Antofagasta",Origen="La_Serena",Destino="Antofagasta" Operaciones=13.0,Pasajeros=1713.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="2",Region_destino="Antofagasta",Origen="La_Serena",Destino="Antofagasta" Operaciones=17.0,Pasajeros=2388.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="2",Region_destino="Antofagasta",Origen="La_Serena",Destino="Antofagasta" Operaciones=17.0,Pasajeros=2508.0 1578873600000000000
@@ -1577,6 +1621,7 @@ Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_desti
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="2",Region_destino="Antofagasta",Origen="La_Serena",Destino="Antofagasta" Operaciones=13.0,Pasajeros=616.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="2",Region_destino="Antofagasta",Origen="La_Serena",Destino="Antofagasta" Operaciones=9.0,Pasajeros=470.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="2",Region_destino="Antofagasta",Origen="La_Serena",Destino="Antofagasta" Operaciones=9.0,Pasajeros=444.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="4",Region_origen="Coquimbo",Cod_region_destino="2",Region_destino="Antofagasta",Origen="La_Serena",Destino="Antofagasta" Operaciones=7.0,Pasajeros=392.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Puerto_Montt",Destino="Antofagasta" Operaciones=2.0,Pasajeros=179.0 1579478400000000000
 Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Puerto_Montt",Destino="Antofagasta" Operaciones=1.0,Pasajeros=126.0 1580083200000000000
 Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Puerto_Montt",Destino="Antofagasta" Operaciones=1.0,Pasajeros=111.0 1580083200000000000
@@ -1626,6 +1671,7 @@ Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Santiago",Destino="Antofagasta" Operaciones=6.0,Pasajeros=695.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Santiago",Destino="Antofagasta" Operaciones=49.0,Pasajeros=4632.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Santiago",Destino="Antofagasta" Operaciones=51.0,Pasajeros=4683.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Santiago",Destino="Antofagasta" Operaciones=47.0,Pasajeros=4416.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Temuco",Destino="Antofagasta" Operaciones=2.0,Pasajeros=240.0 1579478400000000000
 Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Temuco",Destino="Antofagasta" Operaciones=2.0,Pasajeros=284.0 1580083200000000000
 Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="2",Region_destino="Antofagasta",Origen="Temuco",Destino="Antofagasta" Operaciones=2.0,Pasajeros=309.0 1580688000000000000
@@ -1657,6 +1703,7 @@ Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="3",Region_destino="Atacama",Origen="Santiago",Destino="Copiapo" Operaciones=5.0,Pasajeros=167.0 1585526400000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="3",Region_destino="Atacama",Origen="Santiago",Destino="Copiapo" Operaciones=4.0,Pasajeros=134.0 1586131200000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="3",Region_destino="Atacama",Origen="Santiago",Destino="Copiapo" Operaciones=1.0,Pasajeros=18.0 1587340800000000000
+Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="3",Region_destino="Atacama",Origen="Santiago",Destino="Copiapo" Operaciones=2.0,Pasajeros=134.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="11",Region_origen="Aysen",Cod_region_destino="12",Region_destino="Magallanes",Origen="Balmaceda",Destino="Punta_Arenas" Operaciones=1.0,Pasajeros=67.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="11",Region_origen="Aysen",Cod_region_destino="12",Region_destino="Magallanes",Origen="Balmaceda",Destino="Punta_Arenas" Operaciones=2.0,Pasajeros=134.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="11",Region_origen="Aysen",Cod_region_destino="12",Region_destino="Magallanes",Origen="Balmaceda",Destino="Punta_Arenas" Operaciones=2.0,Pasajeros=135.0 1578873600000000000
@@ -1689,6 +1736,7 @@ Transporte_aereo,Cod_region_origen="11",Region_origen="Aysen",Cod_region_destino
 Transporte_aereo,Cod_region_origen="11",Region_origen="Aysen",Cod_region_destino="12",Region_destino="Magallanes",Origen="Balmaceda",Destino="Punta_Arenas" Operaciones=2.0,Pasajeros=8.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="11",Region_origen="Aysen",Cod_region_destino="12",Region_destino="Magallanes",Origen="Balmaceda",Destino="Punta_Arenas" Operaciones=1.0,Pasajeros=9.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="11",Region_origen="Aysen",Cod_region_destino="12",Region_destino="Magallanes",Origen="Balmaceda",Destino="Punta_Arenas" Operaciones=1.0,Pasajeros=3.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="11",Region_origen="Aysen",Cod_region_destino="12",Region_destino="Magallanes",Origen="Balmaceda",Destino="Punta_Arenas" Operaciones=1.0,Pasajeros=4.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="12",Region_destino="Magallanes",Origen="Concepcion",Destino="Punta_Arenas" Operaciones=3.0,Pasajeros=478.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="12",Region_destino="Magallanes",Origen="Concepcion",Destino="Punta_Arenas" Operaciones=5.0,Pasajeros=666.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="8",Region_origen="Biobio",Cod_region_destino="12",Region_destino="Magallanes",Origen="Concepcion",Destino="Punta_Arenas" Operaciones=5.0,Pasajeros=734.0 1578873600000000000
@@ -1741,6 +1789,7 @@ Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_des
 Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="12",Region_destino="Magallanes",Origen="Puerto_Montt",Destino="Punta_Arenas" Operaciones=5.0,Pasajeros=430.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="12",Region_destino="Magallanes",Origen="Puerto_Montt",Destino="Punta_Arenas" Operaciones=7.0,Pasajeros=529.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="12",Region_destino="Magallanes",Origen="Puerto_Montt",Destino="Punta_Arenas" Operaciones=8.0,Pasajeros=459.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="12",Region_destino="Magallanes",Origen="Puerto_Montt",Destino="Punta_Arenas" Operaciones=6.0,Pasajeros=451.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="12",Region_destino="Magallanes",Origen="Punta_Arenas",Destino="Punta_Arenas" Operaciones=1.0,Pasajeros=3.0 1597017600000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="12",Region_destino="Magallanes",Origen="Santiago",Destino="Punta_Arenas" Operaciones=54.0,Pasajeros=7560.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="12",Region_destino="Magallanes",Origen="Santiago",Destino="Punta_Arenas" Operaciones=78.0,Pasajeros=11060.0 1578268800000000000
@@ -1781,6 +1830,7 @@ Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="12",Region_destino="Magallanes",Origen="Santiago",Destino="Punta_Arenas" Operaciones=1.0,Pasajeros=170.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="12",Region_destino="Magallanes",Origen="Santiago",Destino="Punta_Arenas" Operaciones=7.0,Pasajeros=585.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="12",Region_destino="Magallanes",Origen="Santiago",Destino="Punta_Arenas" Operaciones=5.0,Pasajeros=548.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="12",Region_destino="Magallanes",Origen="Santiago",Destino="Punta_Arenas" Operaciones=6.0,Pasajeros=539.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="12",Region_destino="Magallanes",Origen="Temuco",Destino="Punta_Arenas" Operaciones=2.0,Pasajeros=267.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="12",Region_destino="Magallanes",Origen="Temuco",Destino="Punta_Arenas" Operaciones=3.0,Pasajeros=375.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="12",Region_destino="Magallanes",Origen="Temuco",Destino="Punta_Arenas" Operaciones=2.0,Pasajeros=263.0 1578873600000000000
@@ -1857,6 +1907,7 @@ Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_des
 Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="11",Region_destino="Aysen",Origen="Puerto_Montt",Destino="Balmaceda" Operaciones=1.0,Pasajeros=90.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="11",Region_destino="Aysen",Origen="Puerto_Montt",Destino="Balmaceda" Operaciones=6.0,Pasajeros=294.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="11",Region_destino="Aysen",Origen="Puerto_Montt",Destino="Balmaceda" Operaciones=6.0,Pasajeros=262.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="10",Region_origen="Los_Lagos",Cod_region_destino="11",Region_destino="Aysen",Origen="Puerto_Montt",Destino="Balmaceda" Operaciones=7.0,Pasajeros=312.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="11",Region_destino="Aysen",Origen="Punta_Arenas",Destino="Balmaceda" Operaciones=1.0,Pasajeros=65.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="11",Region_destino="Aysen",Origen="Punta_Arenas",Destino="Balmaceda" Operaciones=2.0,Pasajeros=161.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="11",Region_destino="Aysen",Origen="Punta_Arenas",Destino="Balmaceda" Operaciones=2.0,Pasajeros=149.0 1578873600000000000
@@ -1888,6 +1939,7 @@ Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_de
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="11",Region_destino="Aysen",Origen="Punta_Arenas",Destino="Balmaceda" Operaciones=1.0,Pasajeros=11.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="11",Region_destino="Aysen",Origen="Punta_Arenas",Destino="Balmaceda" Operaciones=1.0,Pasajeros=6.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="11",Region_destino="Aysen",Origen="Punta_Arenas",Destino="Balmaceda" Operaciones=1.0,Pasajeros=2.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="12",Region_origen="Magallanes",Cod_region_destino="11",Region_destino="Aysen",Origen="Punta_Arenas",Destino="Balmaceda" Operaciones=1.0,Pasajeros=10.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="11",Region_destino="Aysen",Origen="Santiago",Destino="Balmaceda" Operaciones=28.0,Pasajeros=3937.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="11",Region_destino="Aysen",Origen="Santiago",Destino="Balmaceda" Operaciones=42.0,Pasajeros=5754.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="11",Region_destino="Aysen",Origen="Santiago",Destino="Balmaceda" Operaciones=42.0,Pasajeros=5893.0 1578873600000000000
@@ -1920,6 +1972,7 @@ Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="11",Region_destino="Aysen",Origen="Santiago",Destino="Balmaceda" Operaciones=3.0,Pasajeros=97.0 1595808000000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="11",Region_destino="Aysen",Origen="Santiago",Destino="Balmaceda" Operaciones=3.0,Pasajeros=155.0 1596412800000000000
 Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="11",Region_destino="Aysen",Origen="Santiago",Destino="Balmaceda" Operaciones=3.0,Pasajeros=108.0 1597017600000000000
+Transporte_aereo,Cod_region_origen="13",Region_origen="Metropolitana",Cod_region_destino="11",Region_destino="Aysen",Origen="Santiago",Destino="Balmaceda" Operaciones=1.0,Pasajeros=25.0 1597622400000000000
 Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="11",Region_destino="Aysen",Origen="Temuco",Destino="Balmaceda" Operaciones=2.0,Pasajeros=258.0 1577836800000000000
 Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="11",Region_destino="Aysen",Origen="Temuco",Destino="Balmaceda" Operaciones=3.0,Pasajeros=345.0 1578268800000000000
 Transporte_aereo,Cod_region_origen="9",Region_origen="Araucania",Cod_region_destino="11",Region_destino="Aysen",Origen="Temuco",Destino="Balmaceda" Operaciones=3.0,Pasajeros=347.0 1578873600000000000
