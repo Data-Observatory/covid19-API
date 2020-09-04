@@ -65,6 +65,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=0 1584230400
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=0 1584230400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=0 1584230400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=0 1584230400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=0 1584230400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1584316800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=1 1584316800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=1 1584316800000000000
@@ -130,6 +131,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=0 1584316800
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=0 1584316800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=0 1584316800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=0 1584316800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=0 1584316800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1584489600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1584489600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1584489600000000000
@@ -195,6 +197,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=0 1584489600
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=0 1584489600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=0 1584489600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=0 1584489600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=0 1584489600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=1 1584576000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1584576000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1584576000000000000
@@ -260,6 +263,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=1 1584576000
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=1 1584576000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=1 1584576000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=1 1584576000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=1 1584576000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=1 1584662400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=2 1584662400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=1 1584662400000000000
@@ -325,6 +329,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=1 1584662400
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=1 1584662400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=1 1584662400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=1 1584662400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=1 1584662400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=1 1584748800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=2 1584748800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=1 1584748800000000000
@@ -390,6 +395,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=1 1584748800
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=1 1584748800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=1 1584748800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=1 1584748800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=1 1584748800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1584835200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=2 1584835200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=1 1584835200000000000
@@ -455,6 +461,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=0 1584835200
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=0 1584835200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=0 1584835200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=0 1584835200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=0 1584835200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=1 1584921600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1584921600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1584921600000000000
@@ -520,6 +527,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=1 1584921600
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=1 1584921600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=1 1584921600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=1 1584921600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=1 1584921600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1585008000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=4 1585008000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=3 1585008000000000000
@@ -585,6 +593,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=0 1585008000
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=0 1585008000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=0 1585008000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=0 1585008000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=0 1585008000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=1 1585094400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=2 1585094400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=1 1585094400000000000
@@ -650,6 +659,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=1 1585094400
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=1 1585094400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=1 1585094400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=1 1585094400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=1 1585094400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=1 1585180800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=1 1585180800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=1 1585180800000000000
@@ -715,6 +725,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=1 1585180800
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=1 1585180800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=1 1585180800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=1 1585180800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=1 1585180800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=1 1585267200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=6 1585267200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=5 1585267200000000000
@@ -780,6 +791,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=1 1585267200
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=1 1585267200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=1 1585267200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=1 1585267200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=1 1585267200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=1 1585353600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=6 1585353600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=6 1585353600000000000
@@ -845,6 +857,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=1 1585353600
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=1 1585353600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=1 1585353600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=1 1585353600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=1 1585353600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=1 1585440000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=7 1585440000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=5 1585440000000000000
@@ -910,6 +923,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=1 1585440000
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=1 1585440000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=1 1585440000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=1 1585440000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=1 1585440000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=3 1585526400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=6 1585526400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=6 1585526400000000000
@@ -975,6 +989,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=3 1585526400
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=3 1585526400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=3 1585526400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=3 1585526400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=3 1585526400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=5 1585612800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=3 1585612800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=3 1585612800000000000
@@ -1040,6 +1055,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=5 1585612800
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=5 1585612800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=5 1585612800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=5 1585612800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=5 1585612800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=1 1585699200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=5 1585699200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=5 1585699200000000000
@@ -1105,6 +1121,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=1 1585699200
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=1 1585699200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=1 1585699200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=1 1585699200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=1 1585699200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=6 1585785600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=5 1585785600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=5 1585785600000000000
@@ -1170,6 +1187,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=6 1585785600
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=6 1585785600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=6 1585785600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=6 1585785600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=6 1585785600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=7 1585872000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=5 1585872000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=5 1585872000000000000
@@ -1235,6 +1253,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=7 1585872000
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=7 1585872000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=7 1585872000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=7 1585872000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=7 1585872000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=8 1585958400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=9 1585958400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=7 1585958400000000000
@@ -1300,6 +1319,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=8 1585958400
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=8 1585958400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=8 1585958400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=8 1585958400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=8 1585958400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=1 1586044800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=9 1586044800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=9 1586044800000000000
@@ -1365,6 +1385,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=1 1586044800
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=1 1586044800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=1 1586044800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=1 1586044800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=1 1586044800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=5 1586131200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=10 1586131200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=7 1586131200000000000
@@ -1430,6 +1451,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=6 1586131200
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=6 1586131200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=6 1586131200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=6 1586131200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=6 1586131200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=6 1586217600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=9 1586217600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=10 1586217600000000000
@@ -1495,6 +1517,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=6 1586217600
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=6 1586217600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=6 1586217600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=6 1586217600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=6 1586217600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=11 1586304000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=5 1586304000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=5 1586304000000000000
@@ -1560,6 +1583,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=11 158630400
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=11 1586304000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=11 1586304000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=11 1586304000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=11 1586304000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=9 1586390400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=2 1586390400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=2 1586390400000000000
@@ -1625,6 +1649,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=9 1586390400
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=9 1586390400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=9 1586390400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=9 1586390400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=9 1586390400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=7 1586476800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=5 1586476800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=5 1586476800000000000
@@ -1690,6 +1715,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=7 1586476800
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=7 1586476800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=7 1586476800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=7 1586476800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=7 1586476800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=8 1586563200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=6 1586563200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=7 1586563200000000000
@@ -1755,6 +1781,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=8 1586563200
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=8 1586563200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=8 1586563200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=8 1586563200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=8 1586563200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=4 1586649600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=5 1586649600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=6 1586649600000000000
@@ -1820,6 +1847,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=4 1586649600
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=4 1586649600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=4 1586649600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=4 1586649600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=4 1586649600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=10 1586736000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=3 1586736000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=3 1586736000000000000
@@ -1885,6 +1913,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=10 158673600
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=10 1586736000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=10 1586736000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=10 1586736000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=10 1586736000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=4 1586822400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=12 1586822400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=11 1586822400000000000
@@ -1950,6 +1979,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=4 1586822400
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=4 1586822400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=4 1586822400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=4 1586822400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=4 1586822400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=11 1586908800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=7 1586908800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=7 1586908800000000000
@@ -2015,6 +2045,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=11 158690880
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=11 1586908800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=11 1586908800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=11 1586908800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=11 1586908800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=8 1586995200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=6 1586995200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=7 1586995200000000000
@@ -2080,6 +2111,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=8 1586995200
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=8 1586995200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=8 1586995200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=8 1586995200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=8 1586995200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=6 1587081600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=2 1587081600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=2 1587081600000000000
@@ -2145,6 +2177,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=6 1587081600
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=6 1587081600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=6 1587081600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=6 1587081600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=6 1587081600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=6 1587168000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=9 1587168000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=8 1587168000000000000
@@ -2210,6 +2243,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=7 1587168000
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=7 1587168000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=7 1587168000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=7 1587168000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=7 1587168000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=10 1587254400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=14 1587254400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=14 1587254400000000000
@@ -2275,6 +2309,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=10 158725440
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=10 1587254400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=10 1587254400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=10 1587254400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=10 1587254400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=10 1587340800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=9 1587340800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=7 1587340800000000000
@@ -2340,6 +2375,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=10 158734080
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=10 1587340800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=10 1587340800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=10 1587340800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=10 1587340800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=11 1587427200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=11 1587427200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=9 1587427200000000000
@@ -2405,6 +2441,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=11 158742720
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=11 1587427200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=11 1587427200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=11 1587427200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=11 1587427200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=5 1587513600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=13 1587513600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=13 1587513600000000000
@@ -2470,6 +2507,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=5 1587513600
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=5 1587513600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=5 1587513600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=5 1587513600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=5 1587513600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=8 1587600000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=12 1587600000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=10 1587600000000000000
@@ -2535,6 +2573,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=8 1587600000
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=8 1587600000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=8 1587600000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=8 1587600000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=8 1587600000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=8 1587686400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=10 1587686400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=8 1587686400000000000
@@ -2600,6 +2639,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=9 1587686400
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=9 1587686400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=9 1587686400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=9 1587686400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=9 1587686400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=7 1587772800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=15 1587772800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=11 1587772800000000000
@@ -2665,6 +2705,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=7 1587772800
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=7 1587772800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=7 1587772800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=7 1587772800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=7 1587772800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=13 1587859200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=8 1587859200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=8 1587859200000000000
@@ -2730,6 +2771,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=13 158785920
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=13 1587859200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=13 1587859200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=13 1587859200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=13 1587859200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=14 1587945600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=12 1587945600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=11 1587945600000000000
@@ -2795,6 +2837,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=14 158794560
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=14 1587945600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=14 1587945600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=14 1587945600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=14 1587945600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=8 1588032000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=21 1588032000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=19 1588032000000000000
@@ -2860,6 +2903,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=8 1588032000
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=8 1588032000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=8 1588032000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=8 1588032000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=8 1588032000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=8 1588118400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=10 1588118400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=9 1588118400000000000
@@ -2925,6 +2969,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=9 1588118400
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=9 1588118400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=9 1588118400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=9 1588118400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=9 1588118400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=13 1588204800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=7 1588204800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=6 1588204800000000000
@@ -2990,6 +3035,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=13 158820480
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=13 1588204800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=13 1588204800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=13 1588204800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=13 1588204800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=11 1588291200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=13 1588291200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=14 1588291200000000000
@@ -3055,6 +3101,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=11 158829120
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=11 1588291200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=11 1588291200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=11 1588291200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=11 1588291200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=7 1588377600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=14 1588377600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=11 1588377600000000000
@@ -3120,6 +3167,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=9 1588377600
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=9 1588377600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=9 1588377600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=9 1588377600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=9 1588377600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=18 1588464000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=19 1588464000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=15 1588464000000000000
@@ -3185,6 +3233,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=19 158846400
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=19 1588464000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=19 1588464000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=19 1588464000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=19 1588464000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=14 1588550400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=10 1588550400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=10 1588550400000000000
@@ -3250,6 +3299,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=15 158855040
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=15 1588550400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=15 1588550400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=15 1588550400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=15 1588550400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=14 1588636800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=13 1588636800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=12 1588636800000000000
@@ -3315,6 +3365,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=15 158863680
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=15 1588636800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=15 1588636800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=15 1588636800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=15 1588636800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=22 1588723200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=13 1588723200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=11 1588723200000000000
@@ -3380,6 +3431,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=22 158872320
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=22 1588723200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=22 1588723200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=22 1588723200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=22 1588723200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=31 1588809600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=14 1588809600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=10 1588809600000000000
@@ -3445,6 +3497,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=32 158880960
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=32 1588809600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=32 1588809600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=32 1588809600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=32 1588809600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=19 1588896000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=19 1588896000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=18 1588896000000000000
@@ -3510,6 +3563,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=19 158889600
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=19 1588896000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=19 1588896000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=19 1588896000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=19 1588896000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=33 1588982400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=17 1588982400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=17 1588982400000000000
@@ -3575,6 +3629,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=34 158898240
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=34 1588982400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=34 1588982400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=34 1588982400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=34 1588982400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=32 1589068800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=23 1589068800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=16 1589068800000000000
@@ -3640,6 +3695,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=33 158906880
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=33 1589068800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=33 1589068800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=33 1589068800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=33 1589068800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=25 1589155200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=21 1589155200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=19 1589155200000000000
@@ -3705,6 +3761,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=25 158915520
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=25 1589155200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=25 1589155200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=25 1589155200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=25 1589155200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=31 1589241600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=14 1589241600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=12 1589241600000000000
@@ -3770,6 +3827,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=32 158924160
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=32 1589241600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=32 1589241600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=32 1589241600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=32 1589241600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=40 1589328000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=28 1589328000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=18 1589328000000000000
@@ -3835,6 +3893,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=41 158932800
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=41 1589328000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=41 1589328000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=41 1589328000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=41 1589328000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=44 1589414400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=31 1589414400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=28 1589414400000000000
@@ -3900,6 +3959,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=43 158941440
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=43 1589414400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=43 1589414400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=43 1589414400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=43 1589414400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=43 1589500800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=11 1589500800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=11 1589500800000000000
@@ -3965,6 +4025,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=43 158950080
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=43 1589500800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=43 1589500800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=43 1589500800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=43 1589500800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=60 1589587200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=26 1589587200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=25 1589587200000000000
@@ -4030,6 +4091,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=61 158958720
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=61 1589587200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=61 1589587200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=61 1589587200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=61 1589587200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=54 1589673600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=36 1589673600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=30 1589673600000000000
@@ -4095,6 +4157,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=56 158967360
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=56 1589673600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=56 1589673600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=56 1589673600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=56 1589673600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=66 1589760000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=34 1589760000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=22 1589760000000000000
@@ -4160,6 +4223,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=76 158976000
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=76 1589760000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=76 1589760000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=76 1589760000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=76 1589760000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=70 1589846400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=27 1589846400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=22 1589846400000000000
@@ -4225,6 +4289,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=73 158984640
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=73 1589846400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=73 1589846400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=73 1589846400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=73 1589846400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=80 1589932800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=30 1589932800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=26 1589932800000000000
@@ -4290,6 +4355,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=81 158993280
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=81 1589932800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=81 1589932800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=81 1589932800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=81 1589932800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=76 1590019200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=39 1590019200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=36 1590019200000000000
@@ -4355,6 +4421,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=78 159001920
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=78 1590019200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=78 1590019200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=77 1590019200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=77 1590019200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=80 1590105600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=35 1590105600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=31 1590105600000000000
@@ -4420,6 +4487,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=83 159010560
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=83 1590105600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=83 1590105600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=83 1590105600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=83 1590105600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=104 1590192000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=45 1590192000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=40 1590192000000000000
@@ -4485,6 +4553,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=107 15901920
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=107 1590192000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=107 1590192000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=107 1590192000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=107 1590192000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=117 1590278400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=46 1590278400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=43 1590278400000000000
@@ -4550,6 +4619,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=119 15902784
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=119 1590278400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=119 1590278400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=119 1590278400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=119 1590278400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=95 1590364800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=55 1590364800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=45 1590364800000000000
@@ -4615,6 +4685,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=100 15903648
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=100 1590364800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=100 1590364800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=100 1590364800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=100 1590364800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=115 1590451200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=53 1590451200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=48 1590451200000000000
@@ -4680,6 +4751,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=118 15904512
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=118 1590451200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=118 1590451200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=118 1590451200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=118 1590451200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=135 1590537600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=57 1590537600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=55 1590537600000000000
@@ -4745,6 +4817,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=140 15905376
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=140 1590537600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=140 1590537600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=140 1590537600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=140 1590537600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=126 1590624000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=47 1590624000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=43 1590624000000000000
@@ -4810,6 +4883,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=129 15906240
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=129 1590624000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=129 1590624000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=129 1590624000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=129 1590624000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=137 1590710400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=60 1590710400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=52 1590710400000000000
@@ -4875,6 +4949,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=141 15907104
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=141 1590710400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=141 1590710400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=141 1590710400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=141 1590710400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=142 1590796800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=54 1590796800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=46 1590796800000000000
@@ -4940,6 +5015,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=150 15907968
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=150 1590796800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=150 1590796800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=150 1590796800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=150 1590796800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=123 1590883200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=62 1590883200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=63 1590883200000000000
@@ -5005,6 +5081,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=131 15908832
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=131 1590883200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=131 1590883200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=131 1590883200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=131 1590883200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=155 1590969600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=66 1590969600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=62 1590969600000000000
@@ -5070,6 +5147,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=158 15909696
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=158 1590969600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=158 1590969600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=158 1590969600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=158 1590969600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=151 1591056000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=68 1591056000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=60 1591056000000000000
@@ -5135,6 +5213,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=157 15910560
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=157 1591056000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=157 1591056000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=157 1591056000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=157 1591056000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=159 1591142400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=87 1591142400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=79 1591142400000000000
@@ -5200,6 +5279,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=167 15911424
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=167 1591142400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=167 1591142400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=167 1591142400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=167 1591142400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=152 1591228800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=61 1591228800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=50 1591228800000000000
@@ -5265,6 +5345,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=165 15912288
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=165 1591228800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=165 1591228800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=165 1591228800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=165 1591228800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=135 1591315200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=100 1591315200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=73 1591315200000000000
@@ -5330,6 +5411,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=171 15913152
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=171 1591315200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=171 1591315200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=171 1591315200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=171 1591315200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=151 1591401600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=101 1591401600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=74 1591401600000000000
@@ -5395,6 +5477,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=178 15914016
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=178 1591401600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=178 1591401600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=178 1591401600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=178 1591401600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=144 1591488000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=95 1591488000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=73 1591488000000000000
@@ -5460,6 +5543,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=164 15914880
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=164 1591488000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=164 1591488000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=164 1591488000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=164 1591488000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=134 1591574400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=97 1591574400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=76 1591574400000000000
@@ -5525,6 +5609,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=155 15915744
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=155 1591574400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=155 1591574400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=155 1591574400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=155 1591574400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=156 1591660800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=114 1591660800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=84 1591660800000000000
@@ -5590,6 +5675,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=187 15916608
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=187 1591660800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=187 1591660800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=187 1591660800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=187 1591660800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=137 1591747200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=116 1591747200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=73 1591747200000000000
@@ -5655,6 +5741,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=176 15917472
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=176 1591747200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=176 1591747200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=176 1591747200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=176 1591747200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=122 1591833600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=128 1591833600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=73 1591833600000000000
@@ -5720,6 +5807,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=186 15918336
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=186 1591833600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=186 1591833600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=186 1591833600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=186 1591833600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=68 1591920000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=127 1591920000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=63 1591920000000000000
@@ -5785,6 +5873,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=183 15919200
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=183 1591920000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=183 1591920000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=183 1591920000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=183 1591920000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=56 1592006400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=123 1592006400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=60 1592006400000000000
@@ -5850,6 +5939,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=195 15920064
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=195 1592006400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=195 1592006400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=195 1592006400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=195 1592006400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=48 1592092800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=159 1592092800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=68 1592092800000000000
@@ -5915,6 +6005,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=176 15920928
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=176 1592092800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=176 1592092800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=176 1592092800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=176 1592092800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=54 1592179200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=166 1592179200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=108 1592179200000000000
@@ -5980,6 +6071,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=171 15921792
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=171 1592179200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=171 1592179200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=171 1592179200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=171 1592179200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=29 1592265600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=169 1592265600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=75 1592265600000000000
@@ -6045,6 +6137,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=188 15922656
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=188 1592265600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=188 1592265600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=188 1592265600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=188 1592265600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=9 1592352000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=38 1592352000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=72 1592352000000000000
@@ -6110,6 +6203,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=188 15923520
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=188 1592352000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=188 1592352000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=188 1592352000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=188 1592352000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1592438400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1592438400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=73 1592438400000000000
@@ -6175,6 +6269,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=140 15924384
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=140 1592438400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=140 1592438400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=140 1592438400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=140 1592438400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1592524800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1592524800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=75 1592524800000000000
@@ -6240,6 +6335,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=167 15925248
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=167 1592524800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=167 1592524800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=167 1592524800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=167 1592524800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1592611200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1592611200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=67 1592611200000000000
@@ -6305,6 +6401,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=149 15926112
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=149 1592611200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=149 1592611200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=149 1592611200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=149 1592611200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1592697600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1592697600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=93 1592697600000000000
@@ -6370,6 +6467,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=149 15926976
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=149 1592697600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=149 1592697600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=149 1592697600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=149 1592697600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1592784000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1592784000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=72 1592784000000000000
@@ -6435,6 +6533,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=140 15927840
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=140 1592784000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=140 1592784000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=140 1592784000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=140 1592784000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1592870400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1592870400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=53 1592870400000000000
@@ -6500,6 +6599,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=139 15928704
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=139 1592870400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=139 1592870400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=139 1592870400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=139 1592870400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1592956800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1592956800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=58 1592956800000000000
@@ -6565,6 +6665,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=137 15929568
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=137 1592956800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=137 1592956800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=137 1592956800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=137 1592956800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1593043200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1593043200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=13 1593043200000000000
@@ -6630,6 +6731,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=138 15930432
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=138 1593043200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=138 1593043200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=138 1593043200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=138 1593043200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1593129600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1593129600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1593129600000000000
@@ -6695,6 +6797,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=139 15931296
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=139 1593129600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=139 1593129600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=139 1593129600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=139 1593129600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1593216000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1593216000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1593216000000000000
@@ -6760,6 +6863,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=125 15932160
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=125 1593216000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=125 1593216000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=125 1593216000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=125 1593216000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1593302400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1593302400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1593302400000000000
@@ -6825,6 +6929,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=134 15933024
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=134 1593302400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=134 1593302400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=134 1593302400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=134 1593302400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1593388800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1593388800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1593388800000000000
@@ -6890,6 +6995,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=123 15933888
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=123 1593388800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=123 1593388800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=123 1593388800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=123 1593388800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1593475200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1593475200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1593475200000000000
@@ -6955,6 +7061,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=124 15934752
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=124 1593475200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=124 1593475200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=124 1593475200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=124 1593475200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1593561600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1593561600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1593561600000000000
@@ -7020,6 +7127,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=112 15935616
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=112 1593561600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=112 1593561600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=112 1593561600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=112 1593561600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1593648000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1593648000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1593648000000000000
@@ -7085,6 +7193,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=133 15936480
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=133 1593648000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=133 1593648000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=133 1593648000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=133 1593648000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1593734400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1593734400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1593734400000000000
@@ -7150,6 +7259,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=129 15937344
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=129 1593734400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=129 1593734400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=129 1593734400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=129 1593734400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1593820800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1593820800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1593820800000000000
@@ -7215,6 +7325,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=102 15938208
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=102 1593820800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=102 1593820800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=102 1593820800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=102 1593820800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1593907200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1593907200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1593907200000000000
@@ -7280,6 +7391,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=94 159390720
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=94 1593907200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=94 1593907200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=94 1593907200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=94 1593907200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1593993600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1593993600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1593993600000000000
@@ -7345,6 +7457,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=113 15939936
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=113 1593993600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=113 1593993600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=113 1593993600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=113 1593993600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1594080000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1594080000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1594080000000000000
@@ -7410,6 +7523,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=115 15940800
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=115 1594080000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=115 1594080000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=115 1594080000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=115 1594080000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1594166400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1594166400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1594166400000000000
@@ -7475,6 +7589,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=113 15941664
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=113 1594166400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=113 1594166400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=113 1594166400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=113 1594166400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1594252800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1594252800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1594252800000000000
@@ -7540,6 +7655,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=114 15942528
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=114 1594252800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=114 1594252800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=114 1594252800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=114 1594252800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1594339200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1594339200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1594339200000000000
@@ -7605,6 +7721,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=87 159433920
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=87 1594339200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=87 1594339200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=87 1594339200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=87 1594339200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1594425600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1594425600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1594425600000000000
@@ -7670,6 +7787,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=89 159442560
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=89 1594425600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=89 1594425600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=89 1594425600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=89 1594425600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1594512000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1594512000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1594512000000000000
@@ -7735,6 +7853,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=89 159451200
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=89 1594512000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=89 1594512000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=89 1594512000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=89 1594512000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1594598400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1594598400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1594598400000000000
@@ -7800,6 +7919,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=104 15945984
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=104 1594598400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=104 1594598400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=104 1594598400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=104 1594598400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1594684800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1594684800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1594684800000000000
@@ -7865,6 +7985,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=88 159468480
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=88 1594684800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=88 1594684800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=88 1594684800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=88 1594684800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1594771200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1594771200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1594771200000000000
@@ -7930,6 +8051,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=84 159477120
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=84 1594771200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=84 1594771200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=84 1594771200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=84 1594771200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1594857600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1594857600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1594857600000000000
@@ -7995,6 +8117,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=99 159485760
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=99 1594857600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=99 1594857600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=99 1594857600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=99 1594857600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1594944000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1594944000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1594944000000000000
@@ -8060,6 +8183,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=81 159494400
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=81 1594944000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=81 1594944000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=81 1594944000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=81 1594944000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1595030400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1595030400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1595030400000000000
@@ -8125,6 +8249,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=73 159503040
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=73 1595030400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=73 1595030400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=73 1595030400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=73 1595030400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1595116800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1595116800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1595116800000000000
@@ -8190,6 +8315,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=66 159511680
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=66 1595116800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=66 1595116800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=66 1595116800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=66 1595116800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1595203200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1595203200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1595203200000000000
@@ -8255,6 +8381,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=70 159520320
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=70 1595203200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=70 1595203200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=70 1595203200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=70 1595203200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1595289600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1595289600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1595289600000000000
@@ -8320,6 +8447,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=90 159528960
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=90 1595289600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=90 1595289600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=90 1595289600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=90 1595289600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1595376000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1595376000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1595376000000000000
@@ -8385,6 +8513,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=74 159537600
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=74 1595376000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=74 1595376000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=74 1595376000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=74 1595376000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1595462400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1595462400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1595462400000000000
@@ -8450,6 +8579,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=58 159546240
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=58 1595462400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=58 1595462400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=58 1595462400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=58 1595462400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1595548800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1595548800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1595548800000000000
@@ -8515,6 +8645,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=80 159554880
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=80 1595548800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=80 1595548800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=80 1595548800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=80 1595548800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1595635200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1595635200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1595635200000000000
@@ -8580,6 +8711,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=68 159563520
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=68 1595635200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=68 1595635200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=68 1595635200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=68 1595635200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1595721600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1595721600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1595721600000000000
@@ -8645,6 +8777,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=58 159572160
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=58 1595721600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=58 1595721600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=58 1595721600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=58 1595721600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1595808000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1595808000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1595808000000000000
@@ -8710,6 +8843,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=87 159580800
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=87 1595808000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=87 1595808000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=87 1595808000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=87 1595808000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1595894400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1595894400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1595894400000000000
@@ -8775,6 +8909,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=72 159589440
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=72 1595894400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=72 1595894400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=72 1595894400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=72 1595894400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1595980800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1595980800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1595980800000000000
@@ -8840,6 +8975,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=77 159598080
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=77 1595980800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=77 1595980800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=77 1595980800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=77 1595980800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1596067200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1596067200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1596067200000000000
@@ -8905,6 +9041,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=68 159606720
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=68 1596067200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=68 1596067200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=68 1596067200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=68 1596067200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1596153600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1596153600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1596153600000000000
@@ -8970,6 +9107,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=68 159615360
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=68 1596153600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=68 1596153600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=68 1596153600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=68 1596153600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1596240000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1596240000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1596240000000000000
@@ -9035,6 +9173,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=87 159624000
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=87 1596240000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=87 1596240000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=87 1596240000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=87 1596240000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1596326400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1596326400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1596326400000000000
@@ -9100,6 +9239,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=59 159632640
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=59 1596326400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=59 1596326400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=59 1596326400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=60 1596326400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1596412800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1596412800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1596412800000000000
@@ -9165,6 +9305,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=60 159641280
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=60 1596412800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=60 1596412800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=60 1596412800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=60 1596412800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1596499200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1596499200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1596499200000000000
@@ -9230,6 +9371,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=65 159649920
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=65 1596499200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=65 1596499200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=65 1596499200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=65 1596499200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1596585600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1596585600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1596585600000000000
@@ -9295,6 +9437,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=61 159658560
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=61 1596585600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=61 1596585600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=61 1596585600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=61 1596585600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1596672000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1596672000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1596672000000000000
@@ -9360,6 +9503,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=50 159667200
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=50 1596672000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=50 1596672000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=50 1596672000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=50 1596672000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1596758400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1596758400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1596758400000000000
@@ -9425,6 +9569,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=66 159675840
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=66 1596758400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=66 1596758400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=66 1596758400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=66 1596758400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1596844800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1596844800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1596844800000000000
@@ -9490,6 +9635,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=48 159684480
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=48 1596844800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=48 1596844800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=48 1596844800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=48 1596844800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1596931200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1596931200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1596931200000000000
@@ -9555,6 +9701,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=43 159693120
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=43 1596931200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=43 1596931200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=43 1596931200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=43 1596931200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1597017600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1597017600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1597017600000000000
@@ -9620,6 +9767,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=43 159701760
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=43 1597017600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=43 1597017600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=43 1597017600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=43 1597017600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1597104000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1597104000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1597104000000000000
@@ -9685,6 +9833,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=52 159710400
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=52 1597104000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=52 1597104000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=52 1597104000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=53 1597104000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1597190400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1597190400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1597190400000000000
@@ -9750,6 +9899,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=50 159719040
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=50 1597190400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=50 1597190400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=50 1597190400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=50 1597190400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1597276800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1597276800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1597276800000000000
@@ -9815,6 +9965,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=51 159727680
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=51 1597276800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=51 1597276800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=51 1597276800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=51 1597276800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1597363200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1597363200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1597363200000000000
@@ -9880,6 +10031,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=61 159736320
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=61 1597363200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=61 1597363200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=61 1597363200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=62 1597363200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1597449600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1597449600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1597449600000000000
@@ -9945,6 +10097,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=52 159744960
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=52 1597449600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=52 1597449600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=52 1597449600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=52 1597449600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1597536000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1597536000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1597536000000000000
@@ -10010,6 +10163,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=49 159753600
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=49 1597536000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=49 1597536000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=50 1597536000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=50 1597536000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1597622400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1597622400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1597622400000000000
@@ -10075,6 +10229,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=57 159762240
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=57 1597622400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=57 1597622400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=57 1597622400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=58 1597622400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1597708800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1597708800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1597708800000000000
@@ -10140,6 +10295,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=53 159770880
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=53 1597708800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=53 1597708800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=53 1597708800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=53 1597708800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1597795200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1597795200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1597795200000000000
@@ -10205,6 +10361,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=62 159779520
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=62 1597795200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=62 1597795200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=63 1597795200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=63 1597795200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1597881600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1597881600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1597881600000000000
@@ -10270,6 +10427,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=59 159788160
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=59 1597881600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=59 1597881600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=59 1597881600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=60 1597881600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1597968000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1597968000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1597968000000000000
@@ -10335,6 +10493,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=69 159796800
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=69 1597968000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=69 1597968000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=69 1597968000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=69 1597968000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1598054400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1598054400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1598054400000000000
@@ -10400,6 +10559,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=50 159805440
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=50 1598054400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=50 1598054400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=50 1598054400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=50 1598054400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1598140800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1598140800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1598140800000000000
@@ -10465,6 +10625,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=41 159814080
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=41 1598140800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=41 1598140800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=42 1598140800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=42 1598140800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1598227200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1598227200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1598227200000000000
@@ -10530,6 +10691,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=58 159822720
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=58 1598227200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=58 1598227200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=58 1598227200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=59 1598227200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1598313600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1598313600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1598313600000000000
@@ -10595,6 +10757,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=47 159831360
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=47 1598313600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=47 1598313600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=48 1598313600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=48 1598313600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1598400000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1598400000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1598400000000000000
@@ -10660,6 +10823,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=42 159840000
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=42 1598400000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=42 1598400000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=44 1598400000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=48 1598400000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1598486400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1598486400000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1598486400000000000
@@ -10725,6 +10889,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=33 159848640
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=43 1598486400000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=43 1598486400000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=47 1598486400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=49 1598486400000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1598572800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1598572800000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1598572800000000000
@@ -10790,6 +10955,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=7 1598572800
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=24 1598572800000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=28 1598572800000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=38 1598572800000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=39 1598572800000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1598659200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1598659200000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1598659200000000000
@@ -10855,6 +11021,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=0 1598659200
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=5 1598659200000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=22 1598659200000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=45 1598659200000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=45 1598659200000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1598745600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1598745600000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1598745600000000000
@@ -10920,6 +11087,7 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=0 1598745600
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=0 1598745600000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=2 1598745600000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=31 1598745600000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=38 1598745600000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1598832000000000000
 Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1598832000000000000
 Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1598832000000000000
@@ -10985,3 +11153,70 @@ Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=0 1598832000
 Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=0 1598832000000000000
 Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=0 1598832000000000000
 Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=7 1598832000000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=52 1598832000000000000
+Defunciones_deis,Publicacion="2020-06-18",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-06-18",Serie="sospechosos" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-06-28",Serie="sospechosos" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-06-28",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-07-03",Serie="sospechosos" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-07-03",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-07-09",Serie="sospechosos" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-07-09",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-07-17",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-07-18",Serie="sospechosos" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-07-18",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-07-19",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-07-20",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-07-21",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-07-22",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-07-23",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-07-24",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-07-24",Serie="sospechosos" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-07-25",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-07-26",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-07-27",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-07-28",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-07-29",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-07-30",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-07-31",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-01",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-01",Serie="sospechosos" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-02",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-03",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-04",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-05",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-06",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-07",Serie="sospechosos" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-07",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-08",Serie="sospechosos" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-08",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-09",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-10",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-11",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-12",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-13",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-14",Serie="sospechosos" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-14",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-15",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-16",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-17",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-18",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-19",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-20",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-21",Serie="sospechosos" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-21",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-22",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-23",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-24",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-25",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-26",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-27",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-28",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-28",Serie="sospechosos" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-29",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-30",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-08-31",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-09-01",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-09-02",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-09-03",Serie="confirmados" Total=0 1598918400000000000
+Defunciones_deis,Publicacion="2020-09-04",Serie="confirmados" Total=7 1598918400000000000
