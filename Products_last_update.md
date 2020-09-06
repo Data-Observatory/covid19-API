@@ -1,8 +1,8 @@
 ## Esta tabla tiene el ultimo timestamp de cada producto
 |Producto|Ultima actualizacion |
 |------ |------ |
-|producto 1|2020-08-31T00:00:00Z|
-|producto 2|2020-08-31T00:00:00Z|
+|producto 1|2020-09-04T00:00:00Z|
+|producto 2|2020-09-04T00:00:00Z|
 |producto 3|2020-09-05T00:00:00Z|
 |producto 4|
 |producto 5|2020-09-05T00:00:00Z|
@@ -16,32 +16,32 @@
 |producto 13|2020-09-05T00:00:00Z|
 |producto 14|2020-09-05T00:00:00Z|
 |producto 15|2020-08-30T00:00:00Z|
-|producto 16|2020-08-31T00:00:00Z|
+|producto 16|2020-09-04T00:00:00Z|
 |producto 17|2020-09-05T00:00:00Z|
-|producto 18|2020-08-31T00:00:00Z|
-|producto 19|2020-08-31T00:00:00Z|
+|producto 18|2020-09-04T00:00:00Z|
+|producto 19|2020-09-04T00:00:00Z|
 |producto 20|2020-09-05T00:00:00Z|
 |producto 21_1|2020-07-13T00:00:00Z|
 |producto 21_2|2020-07-13T00:00:00Z|
-|producto 22_1|2020-08-31T00:00:00Z|
+|producto 22_1|2020-09-04T00:00:00Z|
 |producto 22_2|2020-05-08T00:00:00Z|
 |producto 23|2020-09-05T00:00:00Z|
 |producto 24|2020-09-05T00:00:00Z|
-|producto 25|2020-08-31T00:00:00Z|
+|producto 25|2020-09-04T00:00:00Z|
 |producto 26|2020-09-05T00:00:00Z|
 |producto 27|2020-09-05T00:00:00Z|
 |producto 28|2020-08-30T00:00:00Z|
 |producto 29|
 |producto 30|2020-09-05T00:00:00Z|
-|producto 31|2020-09-04T00:00:00Z|
-|producto 32|2020-09-04T00:00:00Z|
+|producto 31|2020-09-05T00:00:00Z|
+|producto 32|2020-09-05T00:00:00Z|
 |producto 33|2020-08-30T00:00:00Z|
 |producto 34|
-|producto 35|2020-08-31T00:00:00Z|
+|producto 35|2020-09-04T00:00:00Z|
 |producto 36|2020-09-05T00:00:00Z|
 |producto 37|2020-12-08T00:00:00Z|
-|producto 38|2020-08-31T00:00:00Z|
-|producto 39|2020-08-30T00:00:00Z|
+|producto 38|2020-09-04T00:00:00Z|
+|producto 39|2020-09-03T00:00:00Z|
 |producto 40|2020-08-24T00:00:00Z|
 |producto 41_1|2020-05-15T00:00:00Z|
 |producto 41_2|2020-05-15T00:00:00Z|
