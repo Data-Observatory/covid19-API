@@ -453,3 +453,6 @@ Ventiladores_nacional,Ventiladores="ocupados" Total=2108 1599696000000000000
 Ventiladores_nacional,Ventiladores="total" Total=2592 1599782400000000000
 Ventiladores_nacional,Ventiladores="disponibles" Total=459 1599782400000000000
 Ventiladores_nacional,Ventiladores="ocupados" Total=2133 1599782400000000000
+Ventiladores_nacional,Ventiladores="total" Total=2589 1599868800000000000
+Ventiladores_nacional,Ventiladores="disponibles" Total=459 1599868800000000000
+Ventiladores_nacional,Ventiladores="ocupados" Total=2130 1599868800000000000
