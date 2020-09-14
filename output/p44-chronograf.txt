@@ -27,6 +27,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1593129600000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1593129600000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1593129600000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1593129600000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1593129600000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1593216000000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1593216000000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1593216000000000000
@@ -54,6 +55,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1593216000000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1593216000000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1593216000000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1593216000000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1593216000000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1593302400000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1593302400000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1593302400000000000
@@ -81,6 +83,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1593302400000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1593302400000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1593302400000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1593302400000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1593302400000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1593388800000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1593388800000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1593388800000000000
@@ -108,6 +111,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1593388800000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1593388800000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1593388800000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1593388800000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1593388800000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1593475200000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1593475200000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1593475200000000000
@@ -135,6 +139,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1593475200000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1593475200000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1593475200000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1593475200000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1593475200000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1593561600000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1593561600000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1593561600000000000
@@ -162,6 +167,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1593561600000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1593561600000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1593561600000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1593561600000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1593561600000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1593648000000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1593648000000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1593648000000000000
@@ -189,6 +195,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1593648000000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1593648000000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1593648000000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1593648000000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1593648000000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1593734400000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1593734400000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1593734400000000000
@@ -216,6 +223,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1593734400000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1593734400000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1593734400000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1593734400000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1593734400000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1593820800000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1593820800000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1593820800000000000
@@ -243,6 +251,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1593820800000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1593820800000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1593820800000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1593820800000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1593820800000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1593907200000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1593907200000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1593907200000000000
@@ -270,6 +279,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1593907200000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1593907200000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1593907200000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1593907200000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1593907200000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1593993600000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1593993600000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1593993600000000000
@@ -297,6 +307,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1593993600000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1593993600000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1593993600000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1593993600000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1593993600000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1594080000000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1594080000000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1594080000000000000
@@ -324,6 +335,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1594080000000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1594080000000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1594080000000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1594080000000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1594080000000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1594166400000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1594166400000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1594166400000000000
@@ -351,6 +363,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1594166400000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1594166400000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1594166400000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1594166400000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1594166400000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1594252800000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1594252800000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1594252800000000000
@@ -378,6 +391,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1594252800000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1594252800000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1594252800000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1594252800000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1594252800000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1594339200000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1594339200000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1594339200000000000
@@ -405,6 +419,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1594339200000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1594339200000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1594339200000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1594339200000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1594339200000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1594425600000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1594425600000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1594425600000000000
@@ -432,6 +447,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1594425600000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1594425600000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1594425600000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1594425600000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1594425600000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1594512000000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1594512000000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1594512000000000000
@@ -459,6 +475,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1594512000000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1594512000000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1594512000000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1594512000000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1594512000000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1594598400000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1594598400000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1594598400000000000
@@ -486,6 +503,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1594598400000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1594598400000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1594598400000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1594598400000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1594598400000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1594684800000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1594684800000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1594684800000000000
@@ -513,6 +531,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1594684800000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1594684800000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1594684800000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1594684800000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1594684800000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1594771200000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1594771200000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1594771200000000000
@@ -540,6 +559,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1594771200000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1594771200000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1594771200000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1594771200000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1594771200000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1594857600000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1594857600000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1594857600000000000
@@ -567,6 +587,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1594857600000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1594857600000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1594857600000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1594857600000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1594857600000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1594944000000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1594944000000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1594944000000000000
@@ -594,6 +615,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1594944000000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1594944000000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1594944000000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1594944000000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1594944000000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1595030400000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1595030400000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1595030400000000000
@@ -621,6 +643,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1595030400000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1595030400000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1595030400000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1595030400000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1595030400000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1595116800000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1595116800000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1595116800000000000
@@ -648,6 +671,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1595116800000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1595116800000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1595116800000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1595116800000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1595116800000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1595203200000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1595203200000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1595203200000000000
@@ -675,6 +699,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1595203200000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1595203200000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1595203200000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1595203200000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1595203200000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1595289600000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1595289600000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1595289600000000000
@@ -702,6 +727,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1595289600000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1595289600000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1595289600000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1595289600000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1595289600000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1595376000000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1595376000000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1595376000000000000
@@ -729,6 +755,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1595376000000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1595376000000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1595376000000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1595376000000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1595376000000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1595462400000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1595462400000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1595462400000000000
@@ -756,6 +783,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1595462400000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1595462400000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1595462400000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1595462400000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1595462400000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1595548800000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1595548800000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1595548800000000000
@@ -783,6 +811,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1595548800000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1595548800000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1595548800000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1595548800000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1595548800000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1595635200000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1595635200000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1595635200000000000
@@ -810,6 +839,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1595635200000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1595635200000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1595635200000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1595635200000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1595635200000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1595721600000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1595721600000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1595721600000000000
@@ -837,6 +867,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1595721600000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1595721600000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1595721600000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1595721600000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1595721600000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1595808000000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1595808000000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1595808000000000000
@@ -864,6 +895,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1595808000000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1595808000000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1595808000000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1595808000000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1595808000000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1595894400000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1595894400000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1595894400000000000
@@ -891,6 +923,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1595894400000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1595894400000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1595894400000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1595894400000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1595894400000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1595980800000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1595980800000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1595980800000000000
@@ -918,6 +951,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1595980800000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1595980800000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1595980800000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1595980800000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1595980800000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1596067200000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1596067200000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1596067200000000000
@@ -945,6 +979,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1596067200000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1596067200000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1596067200000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1596067200000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1596067200000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1596153600000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1596153600000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1596153600000000000
@@ -972,6 +1007,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1596153600000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1596153600000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1596153600000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1596153600000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1596153600000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1596240000000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1596240000000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1596240000000000000
@@ -999,6 +1035,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1596240000000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1596240000000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1596240000000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1596240000000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1596240000000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1596326400000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1596326400000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1596326400000000000
@@ -1026,6 +1063,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1596326400000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1596326400000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1596326400000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1596326400000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1596326400000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1596412800000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1596412800000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1596412800000000000
@@ -1053,6 +1091,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1596412800000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1596412800000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1596412800000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1596412800000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1596412800000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1596499200000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1596499200000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1596499200000000000
@@ -1080,6 +1119,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1596499200000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1596499200000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1596499200000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1596499200000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1596499200000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1596585600000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1596585600000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1596585600000000000
@@ -1107,6 +1147,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1596585600000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1596585600000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1596585600000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1596585600000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1596585600000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1596672000000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1596672000000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1596672000000000000
@@ -1134,6 +1175,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1596672000000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1596672000000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1596672000000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1596672000000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1596672000000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1596758400000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1596758400000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1596758400000000000
@@ -1161,6 +1203,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1596758400000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1596758400000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1596758400000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1596758400000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1596758400000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1596844800000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1596844800000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1596844800000000000
@@ -1188,6 +1231,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1596844800000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1596844800000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1596844800000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1596844800000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1596844800000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1596931200000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1596931200000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1596931200000000000
@@ -1215,6 +1259,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1596931200000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1596931200000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1596931200000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1596931200000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1596931200000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1597017600000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1597017600000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1597017600000000000
@@ -1242,6 +1287,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1597017600000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1597017600000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1597017600000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1597017600000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1597017600000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1597104000000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1597104000000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1597104000000000000
@@ -1269,6 +1315,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1597104000000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1597104000000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1597104000000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1597104000000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1597104000000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1597190400000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1597190400000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1597190400000000000
@@ -1296,6 +1343,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1597190400000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1597190400000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1597190400000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1597190400000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1597190400000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1597276800000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1597276800000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1597276800000000000
@@ -1323,6 +1371,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1597276800000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1597276800000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1597276800000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1597276800000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1597276800000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1597363200000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1597363200000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1597363200000000000
@@ -1350,6 +1399,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1597363200000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1597363200000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1597363200000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1597363200000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1597363200000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1597449600000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1597449600000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1597449600000000000
@@ -1377,6 +1427,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=0.0 1597449600000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1597449600000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1597449600000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1597449600000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1597449600000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1597536000000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1597536000000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1597536000000000000
@@ -1404,6 +1455,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1597536000000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1597536000000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1597536000000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1597536000000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1597536000000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1597622400000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1597622400000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1597622400000000000
@@ -1431,6 +1483,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1597622400000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1597622400000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1597622400000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1597622400000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1597622400000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1597708800000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1597708800000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1597708800000000000
@@ -1458,6 +1511,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1597708800000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1597708800000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1597708800000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1597708800000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1597708800000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1597795200000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1597795200000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1597795200000000000
@@ -1485,6 +1539,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1597795200000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1597795200000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1597795200000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1597795200000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1597795200000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1597881600000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1597881600000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1597881600000000000
@@ -1512,6 +1567,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1597881600000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1597881600000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1597881600000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1597881600000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1597881600000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1597968000000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1597968000000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1597968000000000000
@@ -1539,6 +1595,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1597968000000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1597968000000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1597968000000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1597968000000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1597968000000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1598054400000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1598054400000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1598054400000000000
@@ -1566,6 +1623,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1598054400000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=0.0 1598054400000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1598054400000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1598054400000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1598054400000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1598140800000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1598140800000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1598140800000000000
@@ -1593,6 +1651,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1598140800000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1598140800000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1598140800000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1598140800000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1598140800000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1598227200000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1598227200000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1598227200000000000
@@ -1620,6 +1679,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1598227200000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1598227200000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1598227200000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1598227200000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1598227200000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1598313600000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1598313600000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1598313600000000000
@@ -1647,6 +1707,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1598313600000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1598313600000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1598313600000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1598313600000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1598313600000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1598400000000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1598400000000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1598400000000000000
@@ -1674,6 +1735,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1598400000000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1598400000000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1598400000000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1598400000000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1598400000000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1598486400000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1598486400000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1598486400000000000
@@ -1701,6 +1763,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1598486400000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1598486400000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1598486400000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1598486400000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1598486400000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1598572800000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1598572800000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1598572800000000000
@@ -1728,6 +1791,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1598572800000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1598572800000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1598572800000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1598572800000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1598572800000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1598659200000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1598659200000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1598659200000000000
@@ -1755,6 +1819,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1598659200000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1598659200000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=0.0 1598659200000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1598659200000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1598659200000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1598745600000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1598745600000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1598745600000000000
@@ -1782,6 +1847,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1598745600000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1598745600000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=796.0 1598745600000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1598745600000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1598745600000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1598832000000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1598832000000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1598832000000000000
@@ -1809,6 +1875,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1598832000000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1598832000000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=796.0 1598832000000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1598832000000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1598832000000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1598918400000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1598918400000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1598918400000000000
@@ -1836,6 +1903,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1598918400000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1598918400000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=796.0 1598918400000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1598918400000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1598918400000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1599004800000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1599004800000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1599004800000000000
@@ -1863,6 +1931,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1599004800000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1599004800000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=796.0 1599004800000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1599004800000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1599004800000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1599091200000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1599091200000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1599091200000000000
@@ -1890,6 +1959,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1599091200000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1599091200000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=796.0 1599091200000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1599091200000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1599091200000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1599177600000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1599177600000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1599177600000000000
@@ -1917,6 +1987,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1599177600000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1599177600000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=796.0 1599177600000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1599177600000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1599177600000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1599264000000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1599264000000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1599264000000000000
@@ -1944,6 +2015,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1599264000000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1599264000000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=796.0 1599264000000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=0.0 1599264000000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1599264000000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1599350400000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1599350400000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1599350400000000000
@@ -1971,6 +2043,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1599350400000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1599350400000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=796.0 1599350400000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=772.0 1599350400000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1599350400000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1599436800000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1599436800000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1599436800000000000
@@ -1998,6 +2071,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1599436800000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1599436800000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=796.0 1599436800000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=772.0 1599436800000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1599436800000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1599523200000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1599523200000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1599523200000000000
@@ -2025,6 +2099,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1599523200000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1599523200000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=796.0 1599523200000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=772.0 1599523200000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1599523200000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1599609600000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1599609600000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1599609600000000000
@@ -2052,6 +2127,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1599609600000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1599609600000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=796.0 1599609600000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=772.0 1599609600000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1599609600000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1599696000000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1599696000000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1599696000000000000
@@ -2079,6 +2155,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1599696000000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1599696000000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=796.0 1599696000000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=772.0 1599696000000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1599696000000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1599782400000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1599782400000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1599782400000000000
@@ -2106,6 +2183,7 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1599782400000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1599782400000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=796.0 1599782400000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=772.0 1599782400000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1599782400000000000
 Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1599868800000000000
 Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1599868800000000000
 Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1599868800000000000
@@ -2133,3 +2211,32 @@ Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1599868800000000000
 Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1599868800000000000
 Egresos_semanales,Publicacion="S08-24_08-30" Egresos=796.0 1599868800000000000
 Egresos_semanales,Publicacion="S08-31_09-06" Egresos=772.0 1599868800000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=0.0 1599868800000000000
+Egresos_semanales,Publicacion="S03-04_03-08" Egresos=4.0 1599955200000000000
+Egresos_semanales,Publicacion="S03-09_03-15" Egresos=13.0 1599955200000000000
+Egresos_semanales,Publicacion="S03-16_03-22" Egresos=17.0 1599955200000000000
+Egresos_semanales,Publicacion="S03-23_03-29" Egresos=82.0 1599955200000000000
+Egresos_semanales,Publicacion="S03-30_04-05" Egresos=234.0 1599955200000000000
+Egresos_semanales,Publicacion="S04-06_04-12" Egresos=306.0 1599955200000000000
+Egresos_semanales,Publicacion="S04-13_04-19" Egresos=383.0 1599955200000000000
+Egresos_semanales,Publicacion="S04-20_04-26" Egresos=408.0 1599955200000000000
+Egresos_semanales,Publicacion="S04-27_05-03" Egresos=459.0 1599955200000000000
+Egresos_semanales,Publicacion="S05-04_05-10" Egresos=673.0 1599955200000000000
+Egresos_semanales,Publicacion="S05-11_05-17" Egresos=1007.0 1599955200000000000
+Egresos_semanales,Publicacion="S05-18_05-24" Egresos=1662.0 1599955200000000000
+Egresos_semanales,Publicacion="S05-25_05-31" Egresos=2209.0 1599955200000000000
+Egresos_semanales,Publicacion="S06-01_06-07" Egresos=2324.0 1599955200000000000
+Egresos_semanales,Publicacion="S06-08_06-14" Egresos=2365.0 1599955200000000000
+Egresos_semanales,Publicacion="S06-15_06-21" Egresos=2449.0 1599955200000000000
+Egresos_semanales,Publicacion="S06-22_06-28" Egresos=2255.0 1599955200000000000
+Egresos_semanales,Publicacion="S06-29_07-05" Egresos=2001.0 1599955200000000000
+Egresos_semanales,Publicacion="S07-06_07-12" Egresos=1637.0 1599955200000000000
+Egresos_semanales,Publicacion="S07-13_07-20" Egresos=1628.0 1599955200000000000
+Egresos_semanales,Publicacion="S07-21_07-26" Egresos=1471.0 1599955200000000000
+Egresos_semanales,Publicacion="S07-27_08-02" Egresos=1262.0 1599955200000000000
+Egresos_semanales,Publicacion="S08-03_08-09" Egresos=976.0 1599955200000000000
+Egresos_semanales,Publicacion="S08-10_08-16" Egresos=910.0 1599955200000000000
+Egresos_semanales,Publicacion="S08-17_08-23" Egresos=939.0 1599955200000000000
+Egresos_semanales,Publicacion="S08-24_08-30" Egresos=796.0 1599955200000000000
+Egresos_semanales,Publicacion="S08-31_09-06" Egresos=772.0 1599955200000000000
+Egresos_semanales,Publicacion="S09_07-09-13" Egresos=800.0 1599955200000000000
