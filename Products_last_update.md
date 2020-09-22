@@ -3,18 +3,18 @@
 |------ |------ |
 |producto 1|2020-09-18T00:00:00Z|
 |producto 2|2020-09-18T00:00:00Z|
-|producto 3|2020-09-21T00:00:00Z|
+|producto 3|2020-09-22T00:00:00Z|
 |producto 4|
-|producto 5|2020-09-21T00:00:00Z|
+|producto 5|2020-09-22T00:00:00Z|
 |producto 6|
-|producto 7|2020-09-21T00:00:00Z|
-|producto 8|2020-09-21T00:00:00Z|
-|producto 9|2020-09-21T00:00:00Z|
-|producto 10|2020-09-21T00:00:00Z|
+|producto 7|2020-09-22T00:00:00Z|
+|producto 8|2020-09-22T00:00:00Z|
+|producto 9|2020-09-22T00:00:00Z|
+|producto 10|2020-09-22T00:00:00Z|
 |producto 11|
 |producto 12|
-|producto 13|2020-09-21T00:00:00Z|
-|producto 14|2020-09-21T00:00:00Z|
+|producto 13|2020-09-22T00:00:00Z|
+|producto 14|2020-09-22T00:00:00Z|
 |producto 15|2020-09-13T00:00:00Z|
 |producto 16|2020-09-18T00:00:00Z|
 |producto 17|2020-09-22T00:00:00Z|
