@@ -286,6 +286,7 @@ Positividad,Serie="pcr" Total=50583.0 1609459200000000000
 Positividad,Serie="pcr" Total=46178.0 1609545600000000000
 Positividad,Serie="pcr" Total=29784.0 1609632000000000000
 Positividad,Serie="pcr" Total=25497.0 1609718400000000000
+Positividad,Serie="pcr" Total=25817.0 1609804800000000000
 Positividad,Serie="casos" Total=220.0 1585094400000000000
 Positividad,Serie="casos" Total=164.0 1585180800000000000
 Positividad,Serie="casos" Total=304.0 1585267200000000000
@@ -572,6 +573,7 @@ Positividad,Serie="casos" Total=3588.0 1609459200000000000
 Positividad,Serie="casos" Total=3338.0 1609545600000000000
 Positividad,Serie="casos" Total=2289.0 1609632000000000000
 Positividad,Serie="casos" Total=2450.0 1609718400000000000
+Positividad,Serie="casos" Total=2457.0 1609804800000000000
 Positividad,Serie="positividad" Total=0.0669 1585094400000000000
 Positividad,Serie="positividad" Total=0.0336 1585180800000000000
 Positividad,Serie="positividad" Total=0.0412 1585267200000000000
@@ -858,6 +860,7 @@ Positividad,Serie="positividad" Total=0.0709 1609459200000000000
 Positividad,Serie="positividad" Total=0.0723 1609545600000000000
 Positividad,Serie="positividad" Total=0.0769 1609632000000000000
 Positividad,Serie="positividad" Total=0.0961 1609718400000000000
+Positividad,Serie="positividad" Total=0.0952 1609804800000000000
 Positividad,Serie="mediamovil_positividad" Total=0.0 1585094400000000000
 Positividad,Serie="mediamovil_positividad" Total=0.0 1585180800000000000
 Positividad,Serie="mediamovil_positividad" Total=0.0 1585267200000000000
@@ -1144,3 +1147,4 @@ Positividad,Serie="mediamovil_positividad" Total=0.0717 1609459200000000000
 Positividad,Serie="mediamovil_positividad" Total=0.0745 1609545600000000000
 Positividad,Serie="mediamovil_positividad" Total=0.0765 1609632000000000000
 Positividad,Serie="mediamovil_positividad" Total=0.0785 1609718400000000000
+Positividad,Serie="mediamovil_positividad" Total=0.0797 1609804800000000000
